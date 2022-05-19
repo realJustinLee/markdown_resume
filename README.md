@@ -1,7 +1,6 @@
 # Justin Xin Li
 
-> Software Engineer 2 (IC-6) | Dell EMC
-> JustinDellAdam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
+> Software Engineer 2 (IC-6) | Dell EMC | JustinDellAdam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
 
 # Work Experience
 
