@@ -3,8 +3,6 @@
 > Software Engineer 2 (IC-6) | Dell EMC
 > JustinDellAdam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
 
----
-
 # Work Experience
 
 ## Dell EMC - UDS ECS_NLE
@@ -42,8 +40,6 @@
 
 1. 2019 2nd Most Popular National Instruments Tech Week Project.
 
----
-
 # Education
 
 ## Shanghai University - School of Computer Engineering and Science
@@ -58,8 +54,6 @@
 1. *3rd Prize of the 4th Computer Application Ability Competition of Shanghai University*
 1. *Science and Innovation Star of Shanghai University Student Community*
 
----
-
 # Skills
 
 - Open-Source: StackOverflow reputation 718, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
@@ -67,8 +61,6 @@
 - Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring,
   Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
 - GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
-
----
 
 # Portfolio
 
