@@ -32,7 +32,7 @@
 - Designed and implemented an automated testing system with a result dashboard with `PyTest` and `scrapy`, integrated
   into the company's internal test platform using `RESTful` APIs and leveraged it into the everyday agile process of the
   team.
-- Provided `OneRT` Linux feed management and reduced the overall average bundle size by 5%
+- Provided `OneRT` Linux feed management and reduced the overall average bundle size by 5%.
 - Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's
   WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved 10% of the asset
   lost cost.
