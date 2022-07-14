@@ -8,7 +8,7 @@
 
 **Software Engineer 2 (IC-6)** | **Aug 2021 - Present**
 
-- Released 2 US patents (still undergoing).
+- Released 3 US patents (still undergoing).
 - Developed a dumping algorithm and sped up the ECT DT write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency
   by 7%.
@@ -22,8 +22,8 @@
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
 - Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
 - Designed and implemented a state machine to coordinate VM render requests and improved virtualization performance from
-  60% to 80%.
-  > Virtualization performance = sum(VM FPS)/Single GPU FPS.
+  60% to 80%. (Ps. Virtualization performance = sum(VM_FPS)/Bare_Metal_FPS)
+- Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms and data-structure.
 
 ## National Instruments - R&D Shanghai
 
@@ -55,7 +55,7 @@
 
 # Skills
 
-- Open-Source: StackOverflow reputation 718, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
+- Open-Source: StackOverflow reputation 740, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
 - Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
 - Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring,
   Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
