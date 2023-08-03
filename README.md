@@ -8,20 +8,20 @@
 
 **Software Engineer 2 (IC-6)** | **Aug 2021 - Present**
 
-- Scrum Lead of OBS Metadata Layer 1 team
-- Scrum Lead of OSA Fortress team
+- Scrum Lead of `OBS Metadata Layer 1` team
+- Scrum Lead of `OSA Fortress` team
 - Provide high-efficiency Java code to the Elastic Cloud Storage System.
 - Provide ECS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
 - Publications
-  1. US 18065569: Data Read Method, Data Update Method, Electronic Device, and Program Product
-  1. US 18065574: Method, Electronic Device, and Computer Program for Data Processing
-  1. China 202211217524.7 数据处理方法、电子设备和计算机程序产品
-  1. China 202211215669.3 数据读取方法、数据更新方法、电子设备和程序产品
+  1. Patent `US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
+  1. Patent `US 18065574`: Method, Electronic Device, and Computer Program for Data Processing
+  1. Patent China `202211217524.7` 数据处理方法、电子设备和计算机程序产品
+  1. Patent China `202211215669.3` 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications
-  1. RPO-6903098 Registered Product Owner™
+  1. `RPO-6903098` Registered Product Owner™
       - https://s3.amazonaws.com/scruminc-certs/RPO-6903098
-  2. RSM-2901977 Registered Scrum Master™
+  2. `RSM-2901977` Registered Scrum Master™
       - https://s3.amazonaws.com/scruminc-certs/RSM-2901977
 - Awards
   1. 2021 Team of The Year
@@ -35,7 +35,7 @@
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
 - Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
 - Designed and implemented a state machine to coordinate VM render requests and improved virtualization performance from
-  60% to 80%. (Ps. Virtualization performance = sum(VM_FPS)/Bare_Metal_FPS)
+  60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
 - Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms and data-structure.
 
 ## National Instruments - R&D Shanghai
