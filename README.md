@@ -1,6 +1,6 @@
 # Justin Xin Li
 
-> Software Engineer 2 (IC-6) | Dell EMC | JustinDellAdam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
+> Software Engineer 2 (IC-6) | Dell EMC | justindelladam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
 
 # Work Experience
 
@@ -8,12 +8,25 @@
 
 **Software Engineer 2 (IC-6)** | **Aug 2021 - Present**
 
-- Released 3 US patents (still undergoing).
-- Developed a dumping algorithm and sped up the ECT DT write performance by 15%.
-- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency
-  by 7%.
-
-1. 2021 Team of The Year
+- Scrum Lead of OBS Metadata Layer 1 team
+- Scrum Lead of OSA Fortress team
+- Provide high-efficiency Java code to the Elastic Cloud Storage System.
+- Provide ECS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
+- Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
+- Publications
+  1. US 18065569: Data Read Method, Data Update Method, Electronic Device, and Program Product
+  1. US 18065574: Method, Electronic Device, and Computer Program for Data Processing
+  1. China 202211217524.7 数据处理方法、电子设备和计算机程序产品
+  1. China 202211215669.3 数据读取方法、数据更新方法、电子设备和程序产品
+- Certifications
+  1. RPO-6903098 Registered Product Owner™
+      - https://s3.amazonaws.com/scruminc-certs/RPO-6903098
+  2. RSM-2901977 Registered Scrum Master™
+      - https://s3.amazonaws.com/scruminc-certs/RSM-2901977
+- Awards
+  1. 2021 Team of The Year
+  1. Winning Together: Epoch Release Branching and Pipeline Monitoring
+  1. Achievement: Awesome work for DT automation
 
 ## AMD - Virtualization SRDC
 
@@ -55,6 +68,7 @@
 
 # Skills
 
+- Team Management: Registered Product Owner, Registered Scrum Master, Scrum Master role as two teams for over 6 months.
 - Open-Source: StackOverflow reputation 750, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
 - Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
 - Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring,
