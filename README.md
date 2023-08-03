@@ -4,7 +4,7 @@
 
 # Work Experience
 
-## Dell EMC - UDS ECS_NLE
+## Dell Technologies - Dell EMC
 
 **Software Engineer 2 (IC-6)** | **Aug 2021 - Present**
 
