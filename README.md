@@ -21,7 +21,7 @@
 - Certifications
   1. `RPO-6903098` Registered Product Owner™
       - https://s3.amazonaws.com/scruminc-certs/RPO-6903098
-  2. `RSM-2901977` Registered Scrum Master™
+  1. `RSM-2901977` Registered Scrum Master™
       - https://s3.amazonaws.com/scruminc-certs/RSM-2901977
 - Awards
   1. 2021 Team of The Year
