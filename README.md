@@ -42,15 +42,11 @@
 
 **Software Engineer** | **Mar 2019 - Feb 2020**
 
-- Designed and implemented an automated testing system with a result dashboard with `PyTest` and `scrapy`, integrated
-  into the company's internal test platform using `RESTful` APIs and leveraged it into the everyday agile process of the
-  team.
+- Designed and implemented an automated testing system with a result dashboard with `PyTest` and `scrapy`, integrated into the company's internal test platform using `RESTful` APIs and leveraged it into the everyday agile process of the team.
 - Provided `OneRT` Linux feed management and reduced the overall average bundle size by 5%.
-- Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's
-  WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved 10% of the asset
-  lost cost.
-
-1. 2019 2nd Most Popular National Instruments Tech Week Project.
+- Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved 10% of the asset lost cost.
+- Awards
+  1. 2019 2nd Most Popular National Instruments Tech Week Project.
 
 # Education
 
@@ -59,44 +55,36 @@
 **BSc. Computer Science** | **Sep 2015 - Jul 2019**
 
 - Lecturer at Shanghai University Open-Source Community
-
-1. *Excellent graduation thesis of Shanghai University*
-1. *Innovation and Entrepreneurship Scholarship of Shanghai University*
-1. *1st Prize of IoT Innovation and Entrepreneurship Competition of Shanghai University*
-1. *3rd Prize of the 4th Computer Application Ability Competition of Shanghai University*
-1. *Science and Innovation Star of Shanghai University Student Community*
+- Awards
+  1. *Excellent graduation thesis of Shanghai University*
+  1. *Innovation and Entrepreneurship Scholarship of Shanghai University*
+  1. *1st Prize of IoT Innovation and Entrepreneurship Competition of Shanghai University*
+  1. *3rd Prize of the 4th Computer Application Ability Competition of Shanghai University*
+  1. *Science and Innovation Star of Shanghai University Student Community*
 
 # Skills
 
 - Team Management: Registered Product Owner, Registered Scrum Master, Scrum Master role as two teams for over 6 months.
 - Open-Source: StackOverflow reputation 750, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
 - Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
-- Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring,
-  Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
+- Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring, Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
 - GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
 
 # Portfolio
 
 ## LiCMS - Li Xin Content Management System
 
-GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | Online
-Preview: [https://www.juadm.com](https://www.juadm.com)
+GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | Online Preview: [https://www.juadm.com](https://www.juadm.com)
 
 - Designed and developed a full-stack Content Management System that allows people to use it as a blog system.
-- Implemented the front-end interface with both the `RESTful` API solution, website solution (based on `Bootstrap4`) and
-  Two-Factor Authentication.
-- Implemented the backend module with `Flask` and `SQLAlchemy` to provide a lightweight and database-independent
-  system. Containerized the app using `Docker`.
+- Implemented the front-end interface with both the `RESTful` API solution, website solution (based on `Bootstrap5`) and Two-Factor Authentication.
+- Implemented the backend module with `Flask` and `SQLAlchemy` to provide a lightweight and database-independent system. Containerized the app using `Docker`.
 - Implemented multiple running environments (Raw Linux, Docker, and Heroku).
 
 ## LiAg - Li Xin Avatar Generator
 
-GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | Online
-Preview: [https://liag.juadm.com](https://liag.juadm.com)
+GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | Online Preview: [https://liag.juadm.com](https://liag.juadm.com)
 
-- Designed and developed a 3D modeling system with `WebGL` and `React.js` for people to model their favorite movie
-  avatars and print them with a 3D printer.
-- Developed the interface system with `React.js` and webpage 3D modeling and rendering with `WebGL`. Containerized the
-  app using `Docker`.
-- Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the
-  output `STL` model file by 30%.
+- Designed and developed a 3D modeling system with `WebGL` and `React.js` for people to model their favorite movie avatars and print them with a 3D printer.
+- Developed the interface system with `React.js` and webpage 3D modeling and rendering with `WebGL`. Containerized the app using `Docker`.
+- Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the output `STL` model file by 30%.
