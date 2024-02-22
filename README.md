@@ -11,8 +11,11 @@
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Scrum Lead of `OSA Fortress` team
 - Provide high-efficiency Java code to the Elastic Cloud Storage System.
-- Provide ECS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
+- Provide ECS and OBS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
+- Participated in the transformation of VMware based ECS to k8s based OBS.
+- Participated in the development of an automatic diagnose and repairing framework for DT module called DT Automation.
+- Participated in the integration of qTest and existing test automation framework.
 - Publications
   1. Patent `US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
   1. Patent `US 18065574`: Method, Electronic Device, and Computer Program for Data Processing
@@ -24,9 +27,13 @@
   1. `RSM-2901977` Registered Scrum Master™
       - https://s3.amazonaws.com/scruminc-certs/RSM-2901977
 - Awards
-  1. 2021 Team of The Year
   1. Winning Together: Epoch Release Branching and Pipeline Monitoring
   1. Achievement: Awesome work for DT automation
+  1. Innovation: Nice work on 2023 Hackathon Project
+  1. Achievement: OBS Metadata Layer 1 First 2 Features Completed
+  1. Giving & Impact: Making a positive impact in year 2023 
+  1. 2021 Team of The Year
+  1. 2023 Team of The Year: Innovation
 
 ## AMD - Virtualization SRDC
 
