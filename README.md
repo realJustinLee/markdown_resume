@@ -1,6 +1,6 @@
 # Justin Xin Li
 
-> Software Engineer 2 (IC-6) | Dell EMC | justindelladam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
+> Software Engineer 2 (IC-6) | Dell Technologies | justindelladam@live.com | +86 180 1601 5760 | Shanghai, P.R.China
 
 # Work Experience
 
@@ -10,7 +10,7 @@
 
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Scrum Lead of `OSA Fortress` team
-- Provide high-efficiency Java code to the Elastic Cloud Storage System.
+- Provide high-efficiency Java code to the Elastic Cloud Storage and Object Store System.
 - Provide ECS and OBS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
 - Participated in the transformation of VMware-based ECS to k8s-based OBS.
