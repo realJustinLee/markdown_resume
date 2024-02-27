@@ -61,7 +61,7 @@
 
 ## AMD - Virtualization SRDC
 
-**Software Development Engineer 1** | ** Mar 2020 - Jul 2021**
+**Software Development Engineer 1** | **Mar 2020 - Jul 2021**
 
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
 - Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
