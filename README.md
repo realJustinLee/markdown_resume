@@ -17,7 +17,7 @@
 
 # Skills
 
-- Team Management: Registered Product Owner, Registered Scrum Master, Scrum Master role as two teams for over 6 months.
+- Team Management: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977), Scrum Master role as two teams.
 - Open-Source: StackOverflow reputation 750, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
 - Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
 - Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring, Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
