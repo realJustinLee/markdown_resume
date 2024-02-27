@@ -15,6 +15,14 @@
 - There are always crazy ideas in my brain, and more will to implement them with code.
 - Skilled in using Apple iWork and Microsoft Office Suite, proficient in Keynote and PowerPoint.
 
+# Skills
+
+- Team Management: Registered Product Owner, Registered Scrum Master, Scrum Master role as two teams for over 6 months.
+- Open-Source: StackOverflow reputation 750, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
+- Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
+- Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring, Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
+- GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
+
 # Work Experience
 
 ## Dell Technologies - Dell EMC
@@ -85,14 +93,6 @@
   1. *3rd Prize of the 4th Computer Application Ability Competition of Shanghai University*
   1. *Science and Innovation Star of Shanghai University Student Community*
 
-# Skills
-
-- Team Management: Registered Product Owner, Registered Scrum Master, Scrum Master role as two teams for over 6 months.
-- Open-Source: StackOverflow reputation 750, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
-- Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
-- Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring, Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
-- GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
-
 # Portfolio
 
 ## Distributed Object Store Management by Mixed Recursive Cloud Delegation
@@ -110,6 +110,7 @@
 ## ECS and OBS - Elastic Cloud Storage and Object Storage
 
 Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.dell.com/en-us/dt/storage/ecs/index.htm)
+
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Released 2 US patents and 2 Chinese patents
 - Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
