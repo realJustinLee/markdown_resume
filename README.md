@@ -63,9 +63,9 @@
 
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
 - Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
-- Designed and implemented a state machine to coordinate VM render requests and improved virtualization performance from
+- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from
   60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
-- Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms and data-structure.
+- Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms, and data structure.
 
 ## National Instruments - R&D Shanghai
 
@@ -85,7 +85,7 @@
 
 - Lecturer at Shanghai University Open-Source Community
 - Awards
-  1. *Excellent graduation thesis of Shanghai University*
+  1. *Excellent graduation thesis from Shanghai University*
   1. *Innovation and Entrepreneurship Scholarship of Shanghai University*
   1. *1st Prize of IoT Innovation and Entrepreneurship Competition of Shanghai University*
   1. *3rd Prize of the 4th Computer Application Ability Competition of Shanghai University*
@@ -95,9 +95,9 @@
 
 ## Distributed Object Store Management by Mixed Recursive Cloud Delegation
 
-- Provided a self-recursive and cost-effective solution to provide a service that users can store objects to multiple storage solutions while using a unified interface.
+- Provided a self-recursive and cost-effective solution to provide a service in that users can store objects to multiple storage solutions while using a unified interface.
 - Typical singleton deployment could be a Cloud Drive fusion service.
-- Typical cluster deployment could be a self-recursive object storage cloud which could both hold local storage and delegate storage to other cloud services.
+- Typical cluster deployment could be a self-recursive object storage cloud that could both hold local storage and delegate storage to other cloud services.
 
 ## DT Automation and Fortress-Diag
 
