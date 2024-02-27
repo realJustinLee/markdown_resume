@@ -1,7 +1,9 @@
 # Justin Xin Li
 
-> Software Engineer 2 (IC-6) | Dell EMC | justindelladam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
- 
+```log
+Software Engineer 2 (IC-6) | Dell EMC | justindelladam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
+```
+
 - Fluent English, IELTS 7.5.
 - Member of the China Computer Federation.
 - Proficient in Java, Java Concurrency, JVM optimization, Algorithms, Data Structure, and Distributed Storage.
@@ -46,10 +48,8 @@
   1. Patent China `202211217524.7` 数据处理方法、电子设备和计算机程序产品
   1. Patent China `202211215669.3` 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications
-  1. `RPO-6903098` Registered Product Owner™
-      - https://s3.amazonaws.com/scruminc-certs/RPO-6903098
-  1. `RSM-2901977` Registered Scrum Master™
-      - https://s3.amazonaws.com/scruminc-certs/RSM-2901977
+  1. `RPO-6903098` [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
+  1. `RSM-2901977` [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - Awards
   1. 2023 Team of The Year: Innovation
   1. Achievement: OBS Metadata Layer 1 First 2 Features Completed
@@ -114,8 +114,7 @@ Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Released 2 US patents and 2 Chinese patents
 - Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
-- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency
-  by 7%.
+- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
 - OBS is the Kubernetes deployment version of ECS and the future of ECS
 
 ## LiCMS - Li Xin Content Management System
