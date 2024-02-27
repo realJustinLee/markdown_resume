@@ -25,8 +25,7 @@
 - Scrum Lead of `OSA Fortress` team
 - Released 2 US patents and 2 Chinese patents.
 - Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
-- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency
-  by 7%.
+- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
 - Provide high-efficiency Java code to the Elastic Cloud Storage System (ECS) and Object Storage (OBS).
 - Provide ECS and OBS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
