@@ -1,6 +1,19 @@
 # Justin Xin Li
 
 > Software Engineer 2 (IC-6) | Dell EMC | justindelladam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
+ 
+- Fluent English, IELTS 7.5.
+- Member of the China Computer Federation.
+- Proficient in Java, Java Concurrency, JVM optimization, Algorithms, Data Structure, and Distributed Storage.
+- Skilled in Docker, Kubernetes, KVM, and SR-IOV.
+- Also Skilled in Python, Javascript, ReactJS, C/C++, Jenkins, qTest, and more.
+- StackOverflow reputation: 820.
+- GitHub Arctic Code Vault Contributor, Sponsor.
+- GitHub Developer Program Member.
+- Heavy user of macOS/Linux, homebrew & shell scripts.
+- In-depth love of coding and open source movement, committing to excellence.
+- There are always crazy ideas in my brain, and more will to implement them with code.
+- Skilled in using Apple iWork and Microsoft Office Suite, proficient in Keynote and PowerPoint.
 
 # Work Experience
 
@@ -10,11 +23,15 @@
 
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Scrum Lead of `OSA Fortress` team
-- Provide high-efficiency Java code to the Elastic Cloud Storage System.
+- Released 2 US patents and 2 Chinese patents.
+- Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
+- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency
+  by 7%.
+- Provide high-efficiency Java code to the Elastic Cloud Storage System (ECS) and Object Storage (OBS).
 - Provide ECS and OBS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
 - Participated in the transformation of VMware-based ECS to k8s-based OBS.
-- Participated in the development of an automatic diagnose and repair framework for the DT module called DT Automation.
+- Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
 - Participated in the integration of qTest and existing test automation framework.
 - Publications
   1. Patent `US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
@@ -78,6 +95,28 @@
 - GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
 
 # Portfolio
+
+## Distributed Object Store Management by Mixed Recursive Cloud Delegation
+
+- Provided a self-recursive and cost-effective solution to provide a service that users can store objects to multiple storage solutions while using a unified interface.
+- Typical singleton deployment could be a Cloud Drive fusion service.
+- Typical cluster deployment could be a self-recursive object storage cloud which could both hold local storage and delegate storage to other cloud services.
+
+## DT Automation
+
+- Scrum Lead of `OSA Fortress` team
+- Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
+- Participated in the integration of qTest and existing test automation framework.
+
+## ECS and OBS - Elastic Cloud Storage and Object Storage
+
+Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.dell.com/en-us/dt/storage/ecs/index.htm)
+- Scrum Lead of `OBS Metadata Layer 1` team
+- Released 2 US patents and 2 Chinese patents
+- Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
+- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency
+  by 7%.
+- OBS is the Kubernetes deployment version of ECS and the future of ECS
 
 ## LiCMS - Li Xin Content Management System
 
