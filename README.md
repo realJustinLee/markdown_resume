@@ -1,6 +1,6 @@
 # Justin Xin Li
 
-> Software Engineer 2 (IC-6) | Dell EMC | justindelladam@live.com | +86 153 0161 3172 | Shanghai, P.R.China
+> Software Engineer 2 (IC-6) | Dell Technologies | justindelladam@live.com | +86 180 1601 5760 | Shanghai, P.R.China
 
 - Fluent English, IELTS 7.5.
 - Member of the China Computer Federation.
@@ -99,7 +99,7 @@
 - Typical singleton deployment could be a Cloud Drive fusion service.
 - Typical cluster deployment could be a self-recursive object storage cloud which could both hold local storage and delegate storage to other cloud services.
 
-## DT Automation
+## DT Automation and Fortress-Diag
 
 - Scrum Lead of `OSA Fortress` team
 - Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
