@@ -1,13 +1,13 @@
 # Justin Xin Li
 
-> Software Engineer 2 (IC-6) | Dell Technologies | justindelladam@live.com | +86 180 1601 5760 | Shanghai, P.R.China
+> Software Engineer 2 `IC-6` | Dell Technologies | justindelladam@live.com | +86 180 1601 5760 | Shanghai, P.R.China
 
-- Fluent English, IELTS 7.5.
+- Fluent English, IELTS `7.5`.
 - Member of the China Computer Federation.
-- Proficient in Java, Java Concurrency, JVM optimization, Algorithms, Data Structure, and Distributed Storage.
-- Skilled in Docker, Kubernetes, KVM, and SR-IOV.
-- Also Skilled in Python, Javascript, ReactJS, C/C++, Jenkins, qTest, and more.
-- StackOverflow reputation: 820.
+- Proficient in `Java`, `Java` Concurrency, `JVM` optimization, Algorithms, Data Structure, and Distributed Storage.
+- Skilled in `Docker`, `Kubernetes`, `KVM`, and `SR-IOV`.
+- Also Skilled in `Python`, `Javascript`, `React.js`, `C/C++`, `Jenkins`, `qTest`, and more.
+- StackOverflow reputation: `820`.
 - GitHub Arctic Code Vault Contributor, Sponsor.
 - GitHub Developer Program Member.
 - Heavy user of macOS/Linux, homebrew & shell scripts.
@@ -17,8 +17,8 @@
 # Skills
 
 - Team Management: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977).
-- Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
-- Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring, Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
+- Languages: `Java`, `Python`, `C/C++`, `JavaScript`/`TypeScript`, `Node.js`, `SQL`, `GO`.
+- Technologies: `Java` High Concurrency, `JVM` optimization, `Git`, Algorithms, Data Structure, Distrusted Storage, `Spring`, `Flask`, `React.js`, `Unix`/`Linux`, `Docker`, `PyTorch`, `WebGL`.
 - GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
 
 # Work Experience
@@ -30,14 +30,14 @@
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Scrum Lead of `OSA Fortress` team
 - Released 2 US patents and 2 Chinese patents.
-- Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
+- Developed a dumping algorithm and sped up the ECS/OBS DT write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
-- Provide high-efficiency Java code to the Elastic Cloud Storage System (ECS) and Object Storage (OBS).
+- Provide high-efficiency `Java` code to the Elastic Cloud Storage System (ECS) and Object Storage (OBS).
 - Provide ECS and OBS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
-- Participated in the transformation of VMware-based ECS to k8s-based OBS.
+- Participated in the transformation of `VMware`-based ECS to `Kubernetes`-based OBS.
 - Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
-- Participated in the integration of qTest and existing test automation framework.
+- Participated in the integration of `qTest` and existing test automation framework.
 - Publications
   1. Patent `US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
   1. Patent `US 18065574`: Method, Electronic Device, and Computer Program for Data Processing
@@ -101,7 +101,7 @@
 
 - Scrum Lead of `OSA Fortress` team
 - Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
-- Participated in the integration of qTest and existing test automation framework.
+- Participated in the integration of `qTest` and existing `Jenkins` `CI`/`CD` framework.
 
 ## ECS and OBS - Elastic Cloud Storage and Object Storage
 
@@ -109,7 +109,7 @@ Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.
 
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Released 2 US patents and 2 Chinese patents
-- Developed a dumping algorithm and sped up the ECS DT write performance by 15%.
+- Developed a dumping algorithm and sped up the ECS/OBS DT write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
 - OBS is the Kubernetes deployment version of ECS and the future of ECS
 
