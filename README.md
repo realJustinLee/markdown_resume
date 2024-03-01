@@ -12,13 +12,11 @@
 - GitHub Developer Program Member.
 - Heavy user of macOS/Linux, homebrew & shell scripts.
 - In-depth love of coding and open source movement, committing to excellence.
-- There are always crazy ideas in my brain, and more will to implement them with code.
 - Skilled in using Apple iWork and Microsoft Office Suite, proficient in Keynote and PowerPoint.
 
 # Skills
 
 - Team Management: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977).
-- Open-Source: StackOverflow reputation 750, GitHub Arctic Code Vault Contributor, Sponsor, Developer Program Member.
 - Languages: Java, Python, C/C++, JavaScript/TypeScript, Node.js, SQL, GO.
 - Technologies: Java High Concurrency, JVM optimization, Git, Algorithms, Data Structure, Distrusted Storage, Spring, Flask, React.js, Unix/Linux, Docker, PyTorch, WebGL.
 - GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
