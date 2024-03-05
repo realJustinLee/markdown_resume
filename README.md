@@ -29,6 +29,7 @@
 
 - Scrum Lead of `OBS Metadata Layer 1` team
 - Scrum Lead of `OSA Fortress` team
+- China Coordinator of ECS/OBS DevOps Framework Release V-Team
 - Released 2 US patents and 2 Chinese patents.
 - Developed a dumping algorithm and sped up the ECS/OBS DT write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
