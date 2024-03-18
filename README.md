@@ -7,7 +7,7 @@
 - Proficient in `Java`, `Java` Concurrency, `JVM` optimization, Algorithms, Data Structure, and Distributed Storage.
 - Skilled in `Docker`, `Kubernetes`, `KVM`, and `SR-IOV`.
 - Also Skilled in `Python`, `Javascript`, `React.js`, `C/C++`, `Jenkins`, `qTest`, and more.
-- StackOverflow reputation: `820`.
+- StackOverflow reputation: `830`.
 - GitHub Arctic Code Vault Contributor, Sponsor.
 - GitHub Developer Program Member.
 - Heavy user of macOS/Linux, homebrew & shell scripts.
@@ -27,34 +27,34 @@
 
 **Software Engineer 2 (IC-6)** | **Aug 2021 - Present**
 
-- Scrum Lead of `OBS Metadata Layer 1` team
-- Scrum Lead of `OSA Fortress` team
-- China Coordinator of `ECS/OBS DevOps Framework Release-V` Team
+- Scrum Lead of `OBS Metadata Layer 1` team.
+- Scrum Lead of `OSA Fortress` team.
+- China Coordinator of `ECS/OBS DevOps Framework Release` V-team.
 - Released 2 US patents and 2 Chinese patents.
-- Developed a dumping algorithm and sped up the ECS/OBS DT write performance by 15%.
+- Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
 - Provide high-efficiency `Java` code to the Elastic Cloud Storage System `ECS` and Object Storage `OBS`.
-- Provide ECS and OBS development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
-- Dedicate to JVM Optimization, Distributed Cloud Storage, and High-concurrency Java development.
-- Participated in the transformation of `VMware`-based ECS to `Kubernetes`-based OBS.
-- Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
+- Provide `ECS` and `OBS` development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
+- Dedicate to `JVM` Optimization, Distributed Cloud Storage, and High-concurrency `Java` development.
+- Participated in the transformation of `VMware`-based `ECS` to `Kubernetes`-based `OBS`.
+- Participated in the development of an automatic diagnosis and repair framework for the `DT` module called `DT Automation`.
 - Participated in the integration of `qTest` and existing test automation framework.
 - Publications
   1. Patent `US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
   1. Patent `US 18065574`: Method, Electronic Device, and Computer Program for Data Processing
-  1. Patent China `202211217524.7` 数据处理方法、电子设备和计算机程序产品
-  1. Patent China `202211215669.3` 数据读取方法、数据更新方法、电子设备和程序产品
+  1. Patent China `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
+  1. Patent China `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications
   1. `RPO-6903098` [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
   1. `RSM-2901977` [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - Awards
-  1. 2023 Team of The Year: Innovation
-  1. Achievement: OBS Metadata Layer 1 First 2 Features Completed
-  1. Giving & Impact: Making a positive impact in the year 2023
-  1. Innovation: Nice work on the 2023 Hackathon Project
-  1. Achievement: Awesome work for DT automation
-  1. Winning Together: Epoch Release Branching and Pipeline Monitoring
-  1. 2021 Team of The Year
+  1. *2023 Team of The Year: Innovation*
+  1. *Achievement: OBS Metadata Layer 1 First 2 Features Completed*
+  1. *Giving & Impact: Making a positive impact in the year 2023*
+  1. *Innovation: Nice work on the 2023 Hackathon Project*
+  1. *Achievement: Awesome work for DT automation*
+  1. *Winning Together: Epoch Release Branching and Pipeline Monitoring*
+  1. *2021 Team of The Year*
 
 ## AMD - Virtualization SRDC
 
@@ -62,11 +62,10 @@
 
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
 - Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
-- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from
-  60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
+- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from 60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
 - Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms, and data structure.
 
-## National Instruments - R&D Shanghai
+## NI - R&D Shanghai
 
 **Software Engineer** | **Mar 2019 - Feb 2020**
 
@@ -74,7 +73,7 @@
 - Provided `OneRT` Linux feed management and reduced the overall average bundle size by 5%.
 - Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved 10% of the asset lost cost.
 - Awards
-  1. 2019 2nd Most Popular National Instruments Tech Week Project.
+  1. *2019 2nd Most Popular National Instruments Tech Week Project*
 
 # Education
 
@@ -98,21 +97,21 @@
 - Typical singleton deployment could be a Cloud Drive fusion service.
 - Typical cluster deployment could be a self-recursive object storage cloud that could both hold local storage and delegate storage to other cloud services.
 
-## DT Automation and Fortress-Diag
+## `DT Automation` and `Fortress-Diag`
 
-- Scrum Lead of `OSA Fortress` team
-- Participated in the development of an automatic diagnosis and repair framework for the DT module called DT Automation.
+- Scrum Lead of `OSA Fortress` team.
+- Participated in the development of an automatic diagnosis and repair framework for the `DT` module called `DT Automation`.
 - Participated in the integration of `qTest` and existing `Jenkins` `CI`/`CD` framework.
 
-## ECS and OBS - Elastic Cloud Storage and Object Storage
+## `ECS` and `OBS` - Elastic Cloud Storage and Object Storage
 
 Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.dell.com/en-us/dt/storage/ecs/index.htm)
 
-- Scrum Lead of `OBS Metadata Layer 1` team
-- Released 2 US patents and 2 Chinese patents
-- Developed a dumping algorithm and sped up the ECS/OBS DT write performance by 15%.
+- Scrum Lead of `OBS Metadata Layer 1` team.
+- Released 2 US patents and 2 Chinese patents.
+- Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
-- OBS is the Kubernetes deployment version of ECS and the future of ECS
+- `OBS` is the `Kubernetes` deployment version of `ECS` and the future of `ECS`.
 
 ## LiCMS - Li Xin Content Management System
 
@@ -121,7 +120,7 @@ GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJus
 - Designed and developed a full-stack Content Management System that allows people to use it as a blog system.
 - Implemented the front-end interface with both the `RESTful` API solution, website solution (based on `Bootstrap5`) and Two-Factor Authentication.
 - Implemented the backend module with `Flask` and `SQLAlchemy` to provide a lightweight and database-independent system. Containerized the app using `Docker`.
-- Implemented multiple running environments (Raw Linux, Docker, and Heroku).
+- Implemented multiple running environments (Linux, Docker, and Heroku).
 
 ## LiAg - Li Xin Avatar Generator
 
