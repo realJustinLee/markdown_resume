@@ -2,15 +2,15 @@
 
 > Software Engineer 2 `IC-6` | Dell Technologies | justindelladam@live.com | +86 180 1601 5760 | Shanghai, P.R.China
 
-- 英语流利，雅思 `7.5` 分。
+- 英语流利，雅思`7.5`分。
 - 中国计算机学会会员。
-- 精通 `Java`、`Java` 高并发、`JVM` 优化、算法、数据结构和分布式存储。
-- 熟练掌握 `Docker`、`Kubernetes`、`KVM` 和 `SR-IOV`。
-- 亦熟练掌握 `Python`、`Javascript`、`React.js`、`C/C++`、`Jenkins`、`qTest`、等等。
+- 精通`Java`、`Java`高并发、`JVM`优化、算法、数据结构和分布式存储。
+- 熟练掌握`Docker`、`Kubernetes`、`KVM`和`SR-IOV`。
+- 亦熟练掌握`Python`、`Javascript`、`React.js`、`C/C++`、`Jenkins`、`qTest`、等等。
 - StackOverflow reputation: `850`.
 - GitHub Arctic Code Vault Contributor, Sponsor.
 - GitHub Developer Program Member.
-- 重度使用 `macOS`、`Linux`、`homebrew` 和 `shell` 脚本.
+- 重度使用`macOS`、`Linux`、`homebrew`和`shell`脚本.
 - 深爱开源运动，追求卓越。
 - 熟练使用苹果 iWork 和微软 Office 套件，精通 Keynote 和 PowerPoint。
 
