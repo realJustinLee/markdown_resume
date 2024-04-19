@@ -7,10 +7,10 @@
 - Proficient in `Java`, `Java` Concurrency, `JVM` optimization, Algorithms, Data Structure, and Distributed Storage.
 - Skilled in `Docker`, `Kubernetes`, `KVM`, and `SR-IOV`.
 - Also Skilled in `Python`, `Javascript`, `React.js`, `C/C++`, `Jenkins`, `qTest`, and more.
-- StackOverflow reputation: `830`.
+- StackOverflow reputation: `850`.
 - GitHub Arctic Code Vault Contributor, Sponsor.
 - GitHub Developer Program Member.
-- Heavy user of macOS/Linux, homebrew & shell scripts.
+- Heavy user of `macOS`, `Linux`, `homebrew` & `shell` scripts.
 - In-depth love of coding and open source movement, committing to excellence.
 - Skilled in using Apple iWork and Microsoft Office Suite, proficient in Keynote and PowerPoint.
 
