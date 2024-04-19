@@ -102,6 +102,7 @@
 - 担任`OSA Fortress`团队的 Scrum Lead。
 - 参与开发了`DT`模块的自动诊断和修复框架`DT Automation`。
 - 参与了`qTest`和现有测试自动化框架的集成。
+- 技术栈：`Python` + `Java` + `qTest` + `Jenkins` + `Docker`
 
 ## `ECS` and `OBS` - Elastic Cloud Storage and Object Storage
 
@@ -111,7 +112,14 @@
 - 发布 2 项美国专利和 2 项中国专利。
 - 开发了一个加快`ECS`/`OBS` `DT`写入性能 15% 的 dumping 算法。
 - 开发了一个节省了 5% 存储空间并加快了 7% 对象序列化效率的数据结构。
-- `OBS`是`Kubernetes`部署版本的`ECS`也是`ECS`的未来
+- `OBS`是`Kubernetes`部署版本的`ECS`也是`ECS`的未来。
+- 技术栈：`Java` + `Spring` + `ProtoBuf` + `Kubernetes` + `Docker` + `Jenkins` + `Grafana`
+
+## `andgpu-pro` and `gim`
+- 一年内修复了超过 160 个 Linux KMD `amdgpu-pro` 和 `gim` 的 ticket。
+- 帮助 Tech Lead 将虚拟化自动测试系统的通过率从 75% 提高到 95%。
+- 设计并实现了一个状态机来协调虚拟机渲染请求并将虚拟化性能从 60% 提高到 80%。（虚拟化性能 = `sum(VM_FPS)/Bare_Metal_FPS`）
+- 技术栈：`C` + `Linux Kernel` + `SR-IOV` + `qemu` + `KVM`
 
 ## LiCMS 内容管理系统
 
@@ -121,6 +129,7 @@ GitHub 链接：[https://github.com/realJustinLee/LiCMS](https://github.com/real
 - 提供`RESTful` API 和网站（基于`Bootstrap5`）两种方案, 并有两步验证。
 - 使用`Flask`和`SQLAlchemy`实现后端模块，以提供轻量级且独立于数据库的系统。 使用`Docker`对应用程序进行容器化。
 - 实现了多个运行环境（Linux、Docker 和 Heroku）。
+- 技术栈：`Python` + `Flask` + `MySql` + `Docker` + `BootStrap`
 
 ## LiAg 模型生成器
 
@@ -129,3 +138,4 @@ GitHub 链接：[https://github.com/realJustinLee/LiAg](https://github.com/realJ
 - 使用`WebGL`和`React.js`设计和开发了一个 3D 建模系统，供人们建模他们最喜欢的电影手办并用 3D 打印机打印。
 - 使用`React.js`开发界面系统，使用`WebGL`开发网页 3D 建模和渲染。 使用`Docker`对应用程序进行容器化。
 - 扩展和开发了`STLExporter`，将每个模型零件融合为一整个 3D 模型，并将输出`STL`模型文件减少了 30%。
+- 技术栈：`JavaScript` + `React.js` + `Three.js` + `WebGL` + `Docker`

@@ -102,6 +102,7 @@
 - Scrum Lead of `OSA Fortress` team.
 - Participated in the development of an automatic diagnosis and repair framework for the `DT` module called `DT Automation`.
 - Participated in the integration of `qTest` and existing `Jenkins` `CI`/`CD` framework.
+- Tech Stack: `Python` + `Java` + `qTest` + `Jenkins` + `Docker`
 
 ## `ECS` and `OBS` - Elastic Cloud Storage and Object Storage
 
@@ -112,6 +113,14 @@ Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.
 - Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
 - `OBS` is the `Kubernetes` deployment version of `ECS` and the future of `ECS`.
+- Tech Stack: `Java` + `Spring` + `ProtoBuf` + `Kubernetes` + `Docker` + `Jenkins` + `Grafana`
+
+## `andgpu-pro` and `gim`
+
+- Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
+- Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
+- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from 60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
+- Tech Stack: `C` + `Linux Kernel` + `SR-IOV` + `qemu` + `KVM`
 
 ## LiCMS - Li Xin Content Management System
 
@@ -121,6 +130,7 @@ GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJus
 - Implemented the front-end interface with both the `RESTful` API solution, website solution (based on `Bootstrap5`) and Two-Factor Authentication.
 - Implemented the backend module with `Flask` and `SQLAlchemy` to provide a lightweight and database-independent system. Containerized the app using `Docker`.
 - Implemented multiple running environments (Linux, Docker, and Heroku).
+- Tech Stack: `Python` + `Flask` + `MySql` + `Docker` + `BootStrap`
 
 ## LiAg - Li Xin Avatar Generator
 
@@ -129,3 +139,4 @@ GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJust
 - Designed and developed a 3D modeling system with `WebGL` and `React.js` for people to model their favorite movie avatars and print them with a 3D printer.
 - Developed the interface system with `React.js` and webpage 3D modeling and rendering with `WebGL`. Containerized the app using `Docker`.
 - Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the output `STL` model file by 30%.
+- Tech Stack: `JavaScript` + `React.js` + `Three.js` + `WebGL` + `Docker`
