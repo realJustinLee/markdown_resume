@@ -34,14 +34,14 @@
 - Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by 15%.
 - Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
 - Provide high-efficiency `Java` code to the Elastic Cloud Storage System `ECS` and Object Storage `OBS`.
-- Provide `ECS` and `OBS` development support to various financial institutions worldwide (e.g., Morgan Stanley, Citibank, RBC, etc.)
+- Provide `ECS` and `OBS` development support to various leading financial institutions worldwide (e.g., Goldman Sachs, Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to `JVM` Optimization, Distributed Cloud Storage, and High-concurrency `Java` development.
 - Participated in the transformation of `VMware`-based `ECS` to `Kubernetes`-based `OBS`.
 - Participated in the development of an automatic diagnosis and repair framework for the `DT` module called `DT Automation`.
 - Participated in the integration of `qTest` and existing test automation framework.
 - Publications
-  1. Patent `US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
-  1. Patent `US 18065574`: Method, Electronic Device, and Computer Program for Data Processing
+  1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+  1. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
   1. Patent China `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
   1. Patent China `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications

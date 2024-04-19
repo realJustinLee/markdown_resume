@@ -34,14 +34,14 @@
 - 开发了一个加快`ECS`/`OBS` `DT`写入性能 15% 的 dumping 算法。
 - 开发了一个节省了 5% 存储空间并加快了 7% 对象序列化效率的数据结构。
 - 为弹性云存储系统`ECS`和对象存储`OBS`提供高效的`Java`代码。
-- 为全球各金融机构（例如摩根士丹利、花旗银行、RBC等）提供`ECS`和`OBS`开发支持
+- 为全球各大金融机构（例如高盛、摩根士丹利、花旗银行、加拿大皇家银行等）提供`ECS`和`OBS`开发支持
 - 致力于`JVM`优化、分布式云存储和高并发`Java`开发。
 - 参与基于`VMware`的`ECS`到基于`Kubernetes`的`OBS`的迁移开发。
 - 参与开发了`DT`模块的自动诊断和修复框架`DT Automation`。
 - 参与了`qTest`和现有测试自动化框架的集成。
 - 专利
-  1. 美国专利`US 18065569`: Data Read Method, Data Update Method, Electronic Device, and Program Product
-  1. 美国专利`US 18065574`: Method, Electronic Device, and Computer Program for Data Processing
+  1. 美国专利`US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+  1. 美国专利`US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
   1. 中国专利`202211217524.7`: 数据处理方法、电子设备和计算机程序产品
   1. 中国专利`202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
 - 证书
