@@ -104,7 +104,7 @@
 - 参与了`qTest`和现有测试自动化框架的集成。
 - 技术栈：`Python` + `Java` + `qTest` + `Jenkins` + `Docker`
 
-## `ECS` and `OBS` - Elastic Cloud Storage and Object Storage
+## `ECS` 和 `OBS` - `Elastic Cloud Storage` 弹性云存储系统和 `Object Storage` 对象存储系统
 
 项目链接：[https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.dell.com/en-us/dt/storage/ecs/index.htm)
 
@@ -115,7 +115,7 @@
 - `OBS`是`Kubernetes`部署版本的`ECS`也是`ECS`的未来。
 - 技术栈：`Java` + `Spring` + `ProtoBuf` + `Kubernetes` + `Docker` + `Jenkins` + `Grafana`
 
-## `andgpu-pro` and `gim`
+## `andgpu-pro` 和 `gim`
 - 一年内修复了超过 160 个 Linux KMD `amdgpu-pro` 和 `gim` 的 ticket。
 - 帮助 Tech Lead 将虚拟化自动测试系统的通过率从 75% 提高到 95%。
 - 设计并实现了一个状态机来协调虚拟机渲染请求并将虚拟化性能从 60% 提高到 80%。（虚拟化性能 = `sum(VM_FPS)/Bare_Metal_FPS`）
