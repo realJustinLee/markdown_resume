@@ -104,7 +104,7 @@
 - 参与了`qTest`和现有测试自动化框架的集成。
 - 技术栈：`Python` + `Java` + `qTest` + `Jenkins` + `Docker`
 
-## `ECS` 和 `OBS` - `Elastic Cloud Storage` 弹性云存储系统和 `Object Storage` 对象存储系统
+## `ECS` 和 `OBS` - `Elastic Cloud Storage` 弹性云存储系统和 `ObjectScale` 对象存储系统
 
 项目链接：[https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.dell.com/en-us/dt/storage/ecs/index.htm)
 

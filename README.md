@@ -104,7 +104,7 @@
 - Participated in the integration of `qTest` and existing `Jenkins` `CI`/`CD` framework.
 - Tech Stack: `Python` + `Java` + `qTest` + `Jenkins` + `Docker`
 
-## `ECS` and `OBS` - `Elastic Cloud Storage` and `Object Storage`
+## `ECS` and `OBS` - `Elastic Cloud Storage` and `ObjectScale`
 
 Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.dell.com/en-us/dt/storage/ecs/index.htm)
 
