@@ -7,7 +7,7 @@
 - Proficient in `Java`, `Java` Concurrency, `JVM` optimization, Algorithms, Data Structure, and Distributed Storage.
 - Skilled in `Docker`, `Kubernetes`, `KVM`, and `SR-IOV`.
 - Also Skilled in `Python`, `Javascript`, `React.js`, `C/C++`, `Jenkins`, `qTest`, and more.
-- StackOverflow reputation: `850`.
+- StackOverflow reputation: `860`.
 - GitHub Arctic Code Vault Contributor, Sponsor.
 - GitHub Developer Program Member.
 - Heavy user of `macOS`, `Linux`, `homebrew` & `shell` scripts.
@@ -129,7 +129,7 @@ GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJus
 - Designed and developed a full-stack Content Management System that allows people to use it as a blog system.
 - Implemented the front-end interface with both the `RESTful` API solution, website solution (based on `Bootstrap5`) and Two-Factor Authentication.
 - Implemented the backend module with `Flask` and `SQLAlchemy` to provide a lightweight and database-independent system. Containerized the app using `Docker`.
-- Implemented multiple running environments (Linux, Docker, and Heroku).
+- Implemented multiple running environments (`Linux`, `Docker`, and `Heroku`).
 - Tech Stack: `Python` + `Flask` + `MySql` + `Docker` + `BootStrap`
 
 ## LiAg - Li Xin Avatar Generator
@@ -138,5 +138,5 @@ GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJust
 
 - Designed and developed a 3D modeling system with `WebGL` and `React.js` for people to model their favorite movie avatars and print them with a 3D printer.
 - Developed the interface system with `React.js` and webpage 3D modeling and rendering with `WebGL`. Containerized the app using `Docker`.
-- Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the output `STL` model file by 30%.
+- Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the output `STL` model file size by 30%.
 - Tech Stack: `JavaScript` + `React.js` + `Three.js` + `WebGL` + `Docker`

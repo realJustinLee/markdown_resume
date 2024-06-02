@@ -7,12 +7,13 @@
 - 精通`Java`、`Java`高并发、`JVM`优化、算法、数据结构和分布式存储。
 - 熟练掌握`Docker`、`Kubernetes`、`KVM`和`SR-IOV`。
 - 亦熟练掌握`Python`、`Javascript`、`React.js`、`C/C++`、`Jenkins`、`qTest`、等等。
-- StackOverflow reputation: `850`.
+- StackOverflow reputation: `860`.
 - GitHub Arctic Code Vault Contributor, Sponsor.
 - GitHub Developer Program Member.
-- 重度使用`macOS`、`Linux`、`homebrew`和`shell`脚本.
+- 重度使用`macOS`、`Linux`、`homebrew`和`shell`脚本。
 - 深爱开源运动，追求卓越。
 - 熟练使用苹果 iWork 和微软 Office 套件，精通 Keynote 和 PowerPoint。
+- 乐于在团队中担任润滑剂的角色，也追求在代码和创新上的贡献。
 
 # 技能
 
@@ -71,7 +72,7 @@
 
 - 使用`PyTest`和`scrapy`设计并实现了带有结果仪表板的自动化测试系统，使用`RESTful` API 集成到公司的内部测试平台中，并将其运用到团队的日常 Scrum 流程中。
 - 参与`OneRT` Linux feed 开发管理，并将总体平均包大小减少 5%。
-- 使用`Flask`和`Docker`设计和开发 NIISH 资产管理系统后端，使用`RESTful` API集成到公司的微信小应用程序中，极大地改善了办公室资产的管理，并节省了 10％ 的资产损失成本。
+- 使用`Flask`和`Docker`设计和开发 NISH 资产管理系统后端，使用`RESTful` API集成到公司的微信小应用程序中，极大地改善了办公室资产的管理，并节省了 10％ 的资产损失成本。
 - 奖项
   1. *2019 2nd Most Popular National Instruments Tech Week Project*
 
@@ -123,19 +124,19 @@
 
 ## LiCMS 内容管理系统
 
-GitHub 链接：[https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | Online Preview: [https://www.juadm.com](https://www.juadm.com)
+GitHub 链接：[https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | 在线预览：[https://www.juadm.com](https://www.juadm.com)
 
 - 设计和开发了一个全栈内容管理系统，允许人们将其用作博客系统。
 - 提供`RESTful` API 和网站（基于`Bootstrap5`）两种方案, 并有两步验证。
-- 使用`Flask`和`SQLAlchemy`实现后端模块，以提供轻量级且独立于数据库的系统。 使用`Docker`对应用程序进行容器化。
-- 实现了多个运行环境（Linux、Docker 和 Heroku）。
+- 使用`Flask`和`SQLAlchemy`实现后端模块，以提供轻量级且独立于数据库的系统；使用`Docker`对应用程序进行容器化。
+- 实现了多个运行环境（`Linux`、`Docker` 和 `Heroku`）。
 - 技术栈：`Python` + `Flask` + `MySql` + `Docker` + `BootStrap`
 
 ## LiAg 模型生成器
 
-GitHub 链接：[https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | Online Preview: [https://liag.juadm.com](https://liag.juadm.com)
+GitHub 链接：[https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | 在线预览：[https://liag.juadm.com](https://liag.juadm.com)
 
 - 使用`WebGL`和`React.js`设计和开发了一个 3D 建模系统，供人们建模他们最喜欢的电影手办并用 3D 打印机打印。
-- 使用`React.js`开发界面系统，使用`WebGL`开发网页 3D 建模和渲染。 使用`Docker`对应用程序进行容器化。
-- 扩展和开发了`STLExporter`，将每个模型零件融合为一整个 3D 模型，并将输出`STL`模型文件减少了 30%。
+- 使用`React.js`开发界面系统，使用`WebGL`开发网页 3D 建模和渲染；使用`Docker`对应用程序进行容器化。
+- 扩展和开发了`STLExporter`，将每个模型零件融合为一整个 3D 模型，并将输出`STL`模型文件体积减少了 30%。
 - 技术栈：`JavaScript` + `React.js` + `Three.js` + `WebGL` + `Docker`
