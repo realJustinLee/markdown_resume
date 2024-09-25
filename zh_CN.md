@@ -124,7 +124,7 @@
 
 ## LiCMS 内容管理系统
 
-GitHub 链接：[https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | 在线预览：[https://www.juadm.com](https://www.juadm.com)
+GitHub 链接：[https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | 在线预览：[https://www.1a2.org](https://www.1a2.org)
 
 - 设计和开发了一个全栈内容管理系统，允许人们将其用作博客系统。
 - 提供`RESTful` API 和网站（基于`Bootstrap5`）两种方案, 并有两步验证。
@@ -134,7 +134,7 @@ GitHub 链接：[https://github.com/realJustinLee/LiCMS](https://github.com/real
 
 ## LiAg 模型生成器
 
-GitHub 链接：[https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | 在线预览：[https://liag.juadm.com](https://liag.juadm.com)
+GitHub 链接：[https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | 在线预览：[https://liag.1a2.org](https://liag.1a2.org)
 
 - 使用`WebGL`和`React.js`设计和开发了一个 3D 建模系统，供人们建模他们最喜欢的电影手办并用 3D 打印机打印。
 - 使用`React.js`开发界面系统，使用`WebGL`开发网页 3D 建模和渲染；使用`Docker`对应用程序进行容器化。

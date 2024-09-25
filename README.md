@@ -124,7 +124,7 @@ Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.
 
 ## LiCMS - Li Xin Content Management System
 
-GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | Online Preview: [https://www.juadm.com](https://www.juadm.com)
+GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | Online Preview: [https://www.1a2.org](https://www.1a2.org)
 
 - Designed and developed a full-stack Content Management System that allows people to use it as a blog system.
 - Implemented the front-end interface with both the `RESTful` API solution, website solution (based on `Bootstrap5`) and Two-Factor Authentication.
@@ -134,7 +134,7 @@ GitHub Link: [https://github.com/realJustinLee/LiCMS](https://github.com/realJus
 
 ## LiAg - Li Xin Avatar Generator
 
-GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | Online Preview: [https://liag.juadm.com](https://liag.juadm.com)
+GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | Online Preview: [https://liag.1a2.org](https://liag.1a2.org)
 
 - Designed and developed a 3D modeling system with `WebGL` and `React.js` for people to model their favorite movie avatars and print them with a 3D printer.
 - Developed the interface system with `React.js` and webpage 3D modeling and rendering with `WebGL`. Containerized the app using `Docker`.
