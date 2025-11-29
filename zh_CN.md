@@ -30,21 +30,21 @@
 
 - 担任`管控业务团队`的子系统架构师、特性 SE、DEG Leader，`保护引擎组`的 DE、FO，`系统管理组`的 DE，`基础平台组`的 DE：端到端看护核心需求分析、方案设计、疑难问题攻关和质量控制
   1. 编码绝对贡献
-     - 上`master`库代码总量：52.2K+ 行。
-     - 输出检视意见：561+ 个`issue`。
+      - 上`master`库代码总量：52.2K+ 行。
+      - 输出检视意见：561+ 个`issue`。
   2. 修改、处理疑难、性能问题单 135+ 个。
   3. 提升任务调度性能 10,400%：在满并发规格下，任务从发起调度到代理执行任务从最高 35+ 分钟缩短至 20 秒以内，时间复杂度从`O(n^2 * m)`优化至`O(n * m)`。
   4. 设计并开发`ProtectManager`的`Nutanix`备份插件，3 天输出 3.3K+ 行 代码，转测 0 缺陷。
   5. 设计并开发`OceanProtect`四眼认证/MPA（多人审批授权）模块，助力`OceanProtect`产品通过欧洲和中国多款法规和认证
-     - 中华人民共和国国家标准 `GB/T 35273-2020`：[信息安全技术 个人信息安全规范](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
-     - 中国网络安全审查技术与认证中心`CCRC`：信息安全服务资质认证
-     - 欧盟`DORA`法规: [Digital Operational Resilience Act](https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/293002179752718)
-     - 欧盟`EBA`规范: [EBA ICT 与安全风险管理指南](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/GLs%20on%20ICT%20and%20security%20risk%20management/872936/Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf)
+      - 中华人民共和国国家标准 `GB/T 35273-2020`：[信息安全技术 个人信息安全规范](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
+      - 中国网络安全审查技术与认证中心`CCRC`：信息安全服务资质认证
+      - 欧盟`DORA`法规: [Digital Operational Resilience Act](https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/293002179752718)
+      - 欧盟`EBA`规范: [EBA ICT 与安全风险管理指南](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/GLs%20on%20ICT%20and%20security%20risk%20management/872936/Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf)
   6. 牵头 75+ 关键局点线现网问题的定位与解决：涵盖巴西石油、中国太平洋保险、微众银行、中国移动、中国证券登记结算、华夏银行、瑞士 Litasco、阿尔及利亚 AN1 和阿联酋 Emmar 等关键战略 NA 客户，拦截一级 ITR 1 个、二级 ITR 3 个、三级 ITR 4 个、预 ITR 若干。
   7. 例行输出 FST 分析报告、`管控业务团队`质量周报，看护组内软件质量，修改引入和回归不通过数量比往期呈明显下降趋势。
   8. 领导运作`管控业务团队` DEG，推动组内业务流程的规范化运行
-     - 看护 `OceanProtect` 产品告警码、事件码、错误码和 `RESTful` API 的评审。
-     - 制定日志打印规范、`UT` / `LLT` 规范、代码检视规范、`RESTful` API 设计规范、告警/事件/错误码评审规范，并推动落地执行。
+      - 看护 `OceanProtect` 产品告警码、事件码、错误码和 `RESTful` API 的评审。
+      - 制定日志打印规范、`UT` / `LLT` 规范、代码检视规范、`RESTful` API 设计规范、告警/事件/错误码评审规范，并推动落地执行。
   9. 参与和轮值主持`数据保护开发部`的 CCB、NodePC、SEG、ST 会议运作，有效看护软件质量。
   10. 完成 90+ `BUGLSIT` 的回溯、分析和整理，输出整改方案并推动落地，并举一反三，有效提升了组内业务质量。
   11. 提出 9+ 项架构整改建议，主导 22+ 项性能优化
@@ -65,9 +65,9 @@
 - 担任`数据保护开发部` - `保护引擎组`、`系统管理组`、`基础平台组` - `Java`/`Python` Committer，强效看护组内代码质量、推动代码检视氛围建设
   1. 在团队 DEG 内依据检视过程中发现的问题，推动同类安全问题排查整改，协同模块内各 PL 推动排查整改落地闭环。
   2. 通过 DEG 内明确检视密度作为质量周报的重要指标，晨会检视十分钟分享重点检视意见和质量问题排查修改经验，极大提升了模块内的检视氛围
-     - `保护引擎组`：月人均检视意见数量提升 2,277%：从 1.8 个提升至 41 个。
-     - `系统管理组`：月人均检视意见数量提升 400%：从 11 个提升至 44 个。
-     - `基础平台组`：月人均检视意见数量提升 500%：从 7 个提升至 35 个。
+      - `保护引擎组`：月人均检视意见数量提升 2,277%：从 1.8 个提升至 41 个。
+      - `系统管理组`：月人均检视意见数量提升 400%：从 11 个提升至 44 个。
+      - `基础平台组`：月人均检视意见数量提升 500%：从 7 个提升至 35 个。
   3. 获得 2025 年 6 月质量守护奖：当月提出检视意见 153 个，位列开发部 TOP 1，其中包含性能和业务类问题共计 58 个，识别出接口鉴权不完整、Key 硬编码等 15 个安全问题，5 个数据库性能问题，有效提升上库代码质量。
 - 建设人才梯队，培养 5 名 MDE
   1. `保护引擎组` 2 名
@@ -154,8 +154,8 @@
 
 - 担任`管控业务团队`的子系统架构师、特性 SE、DEG Leader，`保护引擎组`的 DE、FO，`系统管理组`的 DE，`基础平台组`的 DE
   1. 编码绝对贡献
-     - 上`master`库代码总量：52.2K+ 行。
-     - 输出检视意见：561+ 个`issue`。
+      - 上`master`库代码总量：52.2K+ 行。
+      - 输出检视意见：561+ 个`issue`。
   2. 修改、处理疑难、性能问题单 135+ 个。
 - 提升任务调度性能 10,400%：在满并发规格下，任务从发起调度到代理执行任务从最高 35+ 分钟缩短至 20 秒以内，时间复杂度从`O(n^2 * m)`优化至`O(n * m)`。
 - 设计并开发`ProtectManager`的`Nutanix`备份插件，3 天输出 3.3K+ 行 代码，转测 0 缺陷。
