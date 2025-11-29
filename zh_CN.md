@@ -26,7 +26,7 @@
 
 ## 华为 - 数据保护架构与设计
 
-**高级工程师 A (17B) / Committer** | **2024年10月 - 现在**
+**高级工程师 A (17B) / Committer** | **2024 年 10 月 - 现在**
 
 - 担任`管控业务团队`的子系统架构师、特性 SE、DEG Leader，`保护引擎组`的 DE、FO，`系统管理组`的 DE，`基础平台组`的 DE：端到端看护核心需求分析、方案设计、疑难问题攻关和质量控制
   1. 编码绝对贡献
@@ -76,15 +76,15 @@
 - 证书
   1. 华为团建开发能力认证 —— 专业级证书（Java）
 - 奖项
-  1. *2025 `数据管理产品部` 质量标杆*
-  2. *2025 `数据保护开发部` 6月月度最佳 Committer*
-  3. *2025 架设 DP 优秀学员/优胜小组*
-  4. *2025 DEDP 优秀学员/优胜小组*
-  5. *2024 NEO 优秀学员/优胜小组/最强班委*
+  1. _2025 `数据管理产品部` 质量标杆_
+  2. _2025 `数据保护开发部` 6 月月度最佳 Committer_
+  3. _2025 架设 DP 优秀学员/优胜小组_
+  4. _2025 DEDP 优秀学员/优胜小组_
+  5. _2024 NEO 优秀学员/优胜小组/最强班委_
 
 ## Dell Technologies - Dell EMC
 
-**Software Engineer 2 (IC-6)** | **2021年8月 - 2024年10月**
+**Software Engineer 2 (IC-6)** | **2021 年 8 月 - 2024 年 10 月**
 
 - 担任`OBS Metadata Layer 1`团队的 Scrum Lead。
 - 担任`OSA Fortress`团队的 Scrum Lead。
@@ -107,17 +107,17 @@
   1. `RPO-6903098`: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
   1. `RSM-2901977`: [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - 奖项
-  1. *2023 Team of The Year: Innovation*
-  1. *Achievement: OBS Metadata Layer 1 First 2 Features Completed*
-  1. *Giving & Impact: Making a positive impact in the year 2023*
-  1. *Innovation: Nice work on the 2023 Hackathon Project*
-  1. *Achievement: Awesome work for DT automation*
-  1. *Winning Together: Epoch Release Branching and Pipeline Monitoring*
-  1. *2021 Team of The Year*
+  1. _2023 Team of The Year: Innovation_
+  1. _Achievement: OBS Metadata Layer 1 First 2 Features Completed_
+  1. _Giving & Impact: Making a positive impact in the year 2023_
+  1. _Innovation: Nice work on the 2023 Hackathon Project_
+  1. _Achievement: Awesome work for DT automation_
+  1. _Winning Together: Epoch Release Branching and Pipeline Monitoring_
+  1. _2021 Team of The Year_
 
 ## AMD - Virtualization SRDC
 
-**Software Development Engineer 1** | **2020年3月 - 2021年7月**
+**Software Development Engineer 1** | **2020 年 3 月 - 2021 年 7 月**
 
 - 一年内修复了超过 160 个 Linux KMD `amdgpu-pro` 和 `gim` 的 ticket。
 - 帮助 Tech Lead 将虚拟化自动测试系统的通过率从 75% 提高到 95%。
@@ -126,27 +126,27 @@
 
 ## NI - R&D Shanghai
 
-**Software Engineer** | **2019年3月 - 2020年2月**
+**Software Engineer** | **2019 年 3 月 - 2020 年 2 月**
 
 - 使用`PyTest`和`scrapy`设计并实现了带有结果仪表板的自动化测试系统，使用`RESTful` API 集成到公司的内部测试平台中，并将其运用到团队的日常 Scrum 流程中。
 - 参与`OneRT` Linux feed 开发管理，并将总体平均包大小减少 5%。
-- 使用`Flask`和`Docker`设计和开发 NISH 资产管理系统后端，使用`RESTful` API集成到公司的微信小应用程序中，极大地改善了办公室资产的管理，并节省了 10％ 的资产损失成本。
+- 使用`Flask`和`Docker`设计和开发 NISH 资产管理系统后端，使用`RESTful` API 集成到公司的微信小应用程序中，极大地改善了办公室资产的管理，并节省了 10％ 的资产损失成本。
 - 奖项
-  1. *2019 2nd Most Popular National Instruments Tech Week Project*
+  1. _2019 2nd Most Popular National Instruments Tech Week Project_
 
 # 教育
 
 ## 上海大学 - 计算机工程与科学学院
 
-**学士 计算机科学** | **2015年9月 - 2019年7月**
+**学士 计算机科学** | **2015 年 9 月 - 2019 年 7 月**
 
 - 上海大学开源社区讲师
 - 奖项
-  1. *上海大学优秀毕业论文*
-  1. *上海大学创新创业奖学金*
-  1. *上海大学物联网创新创业竞赛一等奖*
-  1. *上海大学第四届计算机应用能力大赛三等奖*
-  1. *上海大学学生社区科创之星*
+  1. _上海大学优秀毕业论文_
+  1. _上海大学创新创业奖学金_
+  1. _上海大学物联网创新创业竞赛一等奖_
+  1. _上海大学第四届计算机应用能力大赛三等奖_
+  1. _上海大学学生社区科创之星_
 
 # 项目
 
@@ -198,6 +198,7 @@
 - 技术栈：`Java` + `Spring` + `ProtoBuf` + `Kubernetes` + `Docker` + `Jenkins` + `Grafana`
 
 ## `andgpu-pro` 和 `gim`
+
 - 一年内修复了超过 160 个 Linux KMD `amdgpu-pro` 和 `gim` 的 ticket。
 - 帮助 Tech Lead 将虚拟化自动测试系统的通过率从 75% 提高到 95%。
 - 设计并实现了一个状态机来协调虚拟机渲染请求并将虚拟化性能从 60% 提高到 80%。（虚拟化性能 = `sum(VM_FPS)/Bare_Metal_FPS`）

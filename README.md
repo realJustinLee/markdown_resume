@@ -75,11 +75,11 @@
 - Certifications
   1. HSDC Professional, Java
 - Awards
-  1. *2025 `Data Management PDU` Quality Excellence Award*
-  2. *2025 `Data Protection Development Department` Best Committer of June*
-  3. *2025 Architect DP Excellent Trainee/Winning Team*
-  4. *2025 DEDP Excellent Trainee/Winning Team*
-  5. *2024 NEO Excellent Trainee/Winning Team/Top Class Committee Member*
+  1. _2025 `Data Management PDU` Quality Excellence Award_
+  2. _2025 `Data Protection Development Department` Best Committer of June_
+  3. _2025 Architect DP Excellent Trainee/Winning Team_
+  4. _2025 DEDP Excellent Trainee/Winning Team_
+  5. _2024 NEO Excellent Trainee/Winning Team/Top Class Committee Member_
 
 ## Dell Technologies - Dell EMC
 
@@ -106,13 +106,13 @@
   1. `RPO-6903098`: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
   1. `RSM-2901977`: [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - Awards
-  1. *2023 Team of The Year: Innovation*
-  1. *Achievement: OBS Metadata Layer 1 First 2 Features Completed*
-  1. *Giving & Impact: Making a positive impact in the year 2023*
-  1. *Innovation: Nice work on the 2023 Hackathon Project*
-  1. *Achievement: Awesome work for DT automation*
-  1. *Winning Together: Epoch Release Branching and Pipeline Monitoring*
-  1. *2021 Team of The Year*
+  1. _2023 Team of The Year: Innovation_
+  1. _Achievement: OBS Metadata Layer 1 First 2 Features Completed_
+  1. _Giving & Impact: Making a positive impact in the year 2023_
+  1. _Innovation: Nice work on the 2023 Hackathon Project_
+  1. _Achievement: Awesome work for DT automation_
+  1. _Winning Together: Epoch Release Branching and Pipeline Monitoring_
+  1. _2021 Team of The Year_
 
 ## AMD - Virtualization SRDC
 
@@ -131,7 +131,7 @@
 - Provided `OneRT` Linux feed management and reduced the overall average bundle size by 5%.
 - Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved 10% of the asset lost cost.
 - Awards
-  1. *2019 2nd Most Popular National Instruments Tech Week Project*
+  1. _2019 2nd Most Popular National Instruments Tech Week Project_
 
 # Education
 
@@ -141,15 +141,16 @@
 
 - Lecturer at Shanghai University Open-Source Community
 - Awards
-  1. *Excellent graduation thesis from Shanghai University*
-  1. *Innovation and Entrepreneurship Scholarship of Shanghai University*
-  1. *1st Prize of IoT Innovation and Entrepreneurship Competition of Shanghai University*
-  1. *3rd Prize of the 4th Computer Application Ability Competition of Shanghai University*
-  1. *Science and Innovation Star of Shanghai University Student Community*
+  1. _Excellent graduation thesis from Shanghai University_
+  1. _Innovation and Entrepreneurship Scholarship of Shanghai University_
+  1. _1st Prize of IoT Innovation and Entrepreneurship Competition of Shanghai University_
+  1. _3rd Prize of the 4th Computer Application Ability Competition of Shanghai University_
+  1. _Science and Innovation Star of Shanghai University Student Community_
 
 # Portfolio
 
 ## `OceanProtect` - The Data Prtoection Solution by Huawei
+
 - Served as Subsystem Architect, Feature SE, and DEG Leader for the `System Management & Protection Engine Business Team`. Acted as DE and FO for the `Protection Engine Team`, and as DE for both the `System Management Team` and the `Infrastructure Platform Team`
   1. Coding net contribution:
     - Code submitted into `master` branch: Over 52.2K lines
