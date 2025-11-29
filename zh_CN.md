@@ -39,7 +39,7 @@
     - 中华人民共和国国家标准 `GB/T 35273-2020`：[信息安全技术 个人信息安全规范](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
     - 中国网络安全审查技术与认证中心`CCRC`：信息安全服务资质认证
     - 欧盟`DORA`法规: [Digital Operational Resilience Act](https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/293002179752718)
-    - 欧盟`EBA`规范: [EBA ICT 与安全风险管理指南]((https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/GLs%20on%20ICT%20and%20security%20risk%20management/872936/Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf)
+    - 欧盟`EBA`规范: [EBA ICT 与安全风险管理指南](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/GLs%20on%20ICT%20and%20security%20risk%20management/872936/Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf)
   6. 牵头 75+ 关键局点线现网问题的定位与解决：涵盖巴西石油、中国太平洋保险、微众银行、中国移动、中国证券登记结算、华夏银行、瑞士 Litasco、阿尔及利亚 AN1 和阿联酋 Emmar 等关键战略 NA 客户，拦截一级 ITR 1 个、二级 ITR 3 个、三级 ITR 4 个、预 ITR 若干
   7. 例行输出 FST 分析报告、`管控业务团队`质量周报，看护组内软件质量，修改引入和回归不通过数量比往期呈明显下降趋势
   8. 领导运作`管控业务团队` DEG，推动组内业务流程的规范化运行
