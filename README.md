@@ -29,44 +29,44 @@
 
 - Served as Subsystem Architect, Feature SE, and DEG Leader for the `System Management & Protection Engine Business Team`. Acted as DE and FO for the `Protection Engine Team`, and as DE for both the `System Management Team` and the `Infrastructure Platform Team`: Oversaw requirements analysis, solution design, troubleshooting, and quality control across the full system lifecycle
   1. Coding net contribution:
-    - Code submitted into `master` branch: Over 52.2K lines
-    - Valid code review comments: Over 561 `issues`
+      - Code submitted into `master` branch: Over 52.2K lines
+      - Valid code review comments: Over 561 `issues`
   2. Fixed and resolved over 135 difficult or performance related issue tickets
   3. Improved job scheduling performance by 10,400%: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`
   4. Designed and developed a `Nutanix` backup plugin for `ProtectManager`, producing over 3.3K lines of code in 3 days, with 0 defects during testing.
   5. Designed and developed the `OceanProtect` Four-Eyes Authentication / MPA (Multi-Person Authorization) module, enabling the `OceanProtect` product to meet multiple regulatory and certification requirements across China and the European Union, including:
-    - National Standard of the People's Republic of China `GB/T 35273-2020`: [Information security technology — Personal information security specification](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
-    - China Cybersecurity Review Technology and Certification Center `CCRC`: Information Security Service Qualification Certification
-    - EU `DORA`: [Digital Operational Resilience Act](https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/293002179752718)
-    - EU `EBA` Guidelines: [EBA Guidelines on ICT and security risk management](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/GLs%20on%20ICT%20and%20security%20risk%20management/872936/Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf)
+      - National Standard of the People's Republic of China `GB/T 35273-2020`: [Information security technology — Personal information security specification](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
+      - China Cybersecurity Review Technology and Certification Center `CCRC`: Information Security Service Qualification Certification
+      - EU `DORA`: [Digital Operational Resilience Act](https://www.applytosupply.digitalmarketplace.service.gov.uk/g-cloud/services/293002179752718)
+      - EU `EBA` Guidelines: [EBA Guidelines on ICT and security risk management](https://www.eba.europa.eu/sites/default/files/document_library/Publications/Guidelines/2020/GLs%20on%20ICT%20and%20security%20risk%20management/872936/Final%20draft%20Guidelines%20on%20ICT%20and%20security%20risk%20management.pdf)
   6. Led the identification and resolution of over 75 critical issues at key clients sites in the production environment: This involved high-priority clients such as Petrobras (Brazil), China Pacific Insurance, WeBank, China Mobile, China Securities Depository and Clearing Corporation, Huaxia Bank, Litasco (Switzerland), AN1 (Algeria), and Emaar (UAE). Addressed 1 Level I ITR, 3 Level II ITRs, 4 Level III ITRs, and multiple Pre-ITRs
   7. Routine distribution of FST analysis reports and weekly quality reports to all staff via email, overseeing the software quality within the `System Management & Protection Engine Business Team`. Adjusted development processes to reduce the number of new bugs introduced during fixes and regressions, leading to a significant decline compared to previous periods
   8. Lead the operation of the `System Management & Protection Engine Business Team` DEG, driving the standardized operation of internal business processes:
-    - Overseeing the review of alarm codes, event codes, error codes, and `RESTful` APIs for the `OceanProtect` product
-    - Establishing and promoting the implementation of standards for log printing, `UT` / `LLT`, code reviews, `RESTful` API design, and the review of alarm/event/error codes
+      - Overseeing the review of alarm codes, event codes, error codes, and `RESTful` APIs for the `OceanProtect` product
+      - Establishing and promoting the implementation of standards for log printing, `UT` / `LLT`, code reviews, `RESTful` API design, and the review of alarm/event/error codes
   9. Participated in and rotated as the host for the `Data Protection Development Department`'s CCB, NodePC, SEG, and ST meetings, effectively overseeing software quality
   10. Tracked, analyzed, and organized over 90 `BUGLIST` entries, developed corrective plans, drove their implementation, and applied lessons learned. This effectively improved the quality of internal business processes
   11. Proposed over 9 architecture improvement suggestions and led more than 22 performance optimizations:
-    - Refactored the `VMware` backup plug-in scanning logic of `ProtectManager`, improving performance by 1,100%: reduced the scan time for a 10,000-VM cluster from 2 hours to 10 minutes
-    - Optimized the `Redis` memory usage efficiency of the copy archival jobs by 3,557%: reduced memory consumption of the archival job queue for 10,000 copies from 2 GB to 56 MB.
-    - Optimized the performance of batch job cancellation by 11,900%: improved processing speed from over 1 minute per job to 0.5 seconds per job, with support for 10-way concurrency
-    - Optimized the performance of batch copy deletion job delivery by 1,900%: improved execution efficiency from over 1 minute per job to 3 seconds per job, with support for 10-way concurrency
-    - Optimized copy summary query performance by 37,400%: improved million-copy queries from immediate OOM to returning results within 5 seconds, and reduced 200,000-copy query time from 5 minutes to 0.8 seconds
-    - Optimized log export performance by 19,900%: reduced page response time under heavy-load scenarios from 3 minutes to within 0.9 seconds
-    - Optimized the upgrade speed of the `protectmanager-system-base` and `protectmanager-biz-service` pods by 1,000%: reduced the pod upgrade process from 12 minutes to 90 seconds
-    - Refactored the backup job delivery workflow for virtual machine groups, improving delivery speed by 13,400%: reduced full-scale VM group backup job delivery time from 1.5 hours to 40 seconds
-    - Optimized the progress reporting mechanism for virtual machine group backup jobs. Through database operation improvements and finer-grained locks and transactions, resolved the issue where lock timeouts during reporting caused job status to remain unchanged for an hour and then fail automatically
-    - Refactored the alarm and event dump mechanism, improving performance by 246,757%: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds
-    - Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by 1,000%
+      - Refactored the `VMware` backup plug-in scanning logic of `ProtectManager`, improving performance by 1,100%: reduced the scan time for a 10,000-VM cluster from 2 hours to 10 minutes
+      - Optimized the `Redis` memory usage efficiency of the copy archival jobs by 3,557%: reduced memory consumption of the archival job queue for 10,000 copies from 2 GB to 56 MB.
+      - Optimized the performance of batch job cancellation by 11,900%: improved processing speed from over 1 minute per job to 0.5 seconds per job, with support for 10-way concurrency
+      - Optimized the performance of batch copy deletion job delivery by 1,900%: improved execution efficiency from over 1 minute per job to 3 seconds per job, with support for 10-way concurrency
+      - Optimized copy summary query performance by 37,400%: improved million-copy queries from immediate OOM to returning results within 5 seconds, and reduced 200,000-copy query time from 5 minutes to 0.8 seconds
+      - Optimized log export performance by 19,900%: reduced page response time under heavy-load scenarios from 3 minutes to within 0.9 seconds
+      - Optimized the upgrade speed of the `protectmanager-system-base` and `protectmanager-biz-service` pods by 1,000%: reduced the pod upgrade process from 12 minutes to 90 seconds
+      - Refactored the backup job delivery workflow for virtual machine groups, improving delivery speed by 13,400%: reduced full-scale VM group backup job delivery time from 1.5 hours to 40 seconds
+      - Optimized the progress reporting mechanism for virtual machine group backup jobs. Through database operation improvements and finer-grained locks and transactions, resolved the issue where lock timeouts during reporting caused job status to remain unchanged for an hour and then fail automatically
+      - Refactored the alarm and event dump mechanism, improving performance by 246,757%: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds
+      - Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by 1,000%
 - Served as the requirements analysis expert for the `Data Protection PDT`’s RAT backup software control-plane features, and as the feature SE for the `System Management & Protection Engine Business Team`
   1. Oversaw solution design for the `System Management & Protection Engine Business Team`, completing the analysis and decision-making of over 100 pending RAT requirements in real time
   2. Oversaw solution implementation for the `System Management & Protection Engine Business Team`, completing the implementation and handling of over 35 pending RAT requirements in real time
 - Served as the `Java`/`Python` Committer for the `Data Protection Development Department` across the `Protection Engine Team`, `System Management Team,` and `Infrastructure Platform Team`, ensuring high-quality code and fostering a strong code review culture
   1. Drove systematic remediation of security issues identified during reviews within the team’s DEG, promoting cross-module security scans and coordinating with PLs in each module to ensure full closure of issues
   2. Enhanced the team’s code review culture by establishing review density as a key metric in the weekly quality report, and by sharing major review insights and issue-fixing experience in the daily 10-minute review briefing, significantly improving participation and review quality across modules
-    - `Protection Engine Team`: monthly per-capita review comments increased by 2,277%, from 1.8 to 41
-    - `System Management Team`: monthly per-capita review comments increased by 400%, from 11 to 44
-    - `Base Platform Team`: monthly per-capita review comments increased by 500%, from 7 to 35
+      - `Protection Engine Team`: monthly per-capita review comments increased by 2,277%, from 1.8 to 41
+      - `System Management Team`: monthly per-capita review comments increased by 400%, from 11 to 44
+      - `Base Platform Team`: monthly per-capita review comments increased by 500%, from 7 to 35
   3. Received the Quality Guardian Award (June 2025): submitted 153 review comments—the highest in the entire development department (TOP 1). Among them were 58 performance and functional issues, plus identification of 15 security issues (including incomplete API authorization and hard-coded keys) and 5 database performance issues, effectively improving code quality before repository submission
 - Trained 5 MDEs for talent pipeline building
   1. 2 for the `Protection Engine Team`
@@ -153,8 +153,8 @@
 
 - Served as Subsystem Architect, Feature SE, and DEG Leader for the `System Management & Protection Engine Business Team`. Acted as DE and FO for the `Protection Engine Team`, and as DE for both the `System Management Team` and the `Infrastructure Platform Team`
   1. Coding net contribution:
-    - Code submitted into `master` branch: Over 52.2K lines
-    - Valid code review comments: Over 561 `issues`
+      - Code submitted into `master` branch: Over 52.2K lines
+      - Valid code review comments: Over 561 `issues`
   2. Fixed and resolved over 135 difficult or performance related issue tickets
 - Improved job scheduling performance by 10,400%: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`
 - Designed and developed a `Nutanix` backup plugin for `ProtectManager`, producing over 3.3K lines of code in 3 days, with 0 defects during testing.
