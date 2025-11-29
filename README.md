@@ -70,7 +70,7 @@
   3. Received the Quality Guardian Award (June 2025): submitted 153 review comments—the highest in the entire development department (TOP 1). Among them were 58 performance and functional issues, plus identification of 15 security issues (including incomplete API authorization and hard-coded keys) and 5 database performance issues, effectively improving code quality before repository submission
 - Trained 5 MDEs for talent pipeline building
   1. 2 for the `Protection Engine Team`
-  2. 2 for the `System Management Team` 
+  2. 2 for the `System Management Team`
   3. 1 for the `Infrastructure Platform Team`
 - Certifications
   1. HSDC Professional, Java
