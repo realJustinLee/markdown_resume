@@ -32,7 +32,7 @@
         - Code submitted into `master` branch: Over 52.2K lines.
         - Valid code review comments: Over 561 `issues`.
     2. Fixed and resolved over 135 difficult or performance related issue tickets.
-    3. Improved job scheduling performance by 10,400%: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`.
+    3. Improved job scheduling performance by **10,400%**: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`.
     4. Designed and developed a `Nutanix` backup plugin for `ProtectManager`, producing over 3.3K lines of code in 3 days, with 0 defects during testing.
     5. Designed and developed the `OceanProtect` Four-Eyes Authentication / MPA (Multi-Person Authorization) module, enabling the `OceanProtect` product to meet multiple regulatory and certification requirements across China and the European Union
         - National Standard of the People's Republic of China `GB/T 35273-2020`: [Information security technology — Personal information security specification](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E)
@@ -46,26 +46,26 @@
     9. Participated in and rotated as the host for the `Data Protection Development Department`'s CCB, NodePC, SEG, and ST meetings, effectively overseeing software quality.
     10. Tracked, analyzed, and organized over 90 `BUGLIST` entries, developed corrective plans, drove their implementation, and applied lessons learned. This effectively improved the quality of internal business processes.
     11. Proposed over 9 architecture improvement suggestions and led more than 22 performance optimizations
-        - Refactored the `VMware` backup plug-in scanning logic of `ProtectManager`, improving performance by 1,100%: reduced the scan time for a 10,000-VM cluster from 2 hours to 10 minutes.
-        - Optimized the `Redis` memory usage efficiency of the copy archival jobs by 3,557%: reduced memory consumption of the archival job queue for 10,000 copies from 2 GB to 56 MB.
-        - Optimized the performance of batch job cancellation by 11,900%: improved processing speed from over 1 minute per job to 0.5 seconds per job, with support for 10-way concurrency.
-        - Optimized the performance of batch copy deletion job delivery by 1,900%: improved execution efficiency from over 1 minute per job to 3 seconds per job, with support for 10-way concurrency.
-        - Optimized copy summary query performance by 37,400%: improved million-copy queries from immediate OOM to returning results within 5 seconds, and reduced 200,000-copy query time from 5 minutes to 0.8 seconds.
-        - Optimized log export performance by 19,900%: reduced page response time under heavy-load scenarios from 3 minutes to within 0.9 seconds.
-        - Optimized the upgrade speed of the `protectmanager-system-base` and `protectmanager-biz-service` pods by 1,000%: reduced the pod upgrade process from 12 minutes to 90 seconds.
-        - Refactored the backup job delivery workflow for virtual machine groups, improving delivery speed by 13,400%: reduced full-scale VM group backup job delivery time from 1.5 hours to 40 seconds.
+        - Refactored the `VMware` backup plug-in scanning logic of `ProtectManager`, improving performance by **1,100%**: reduced the scan time for a 10,000-VM cluster from 2 hours to 10 minutes.
+        - Optimized the `Redis` memory usage efficiency of the copy archival jobs by **3,557%**: reduced memory consumption of the archival job queue for 10,000 copies from 2 GB to 56 MB.
+        - Optimized the performance of batch job cancellation by **11,900%**: improved processing speed from over 1 minute per job to 0.5 seconds per job, with support for 10-way concurrency.
+        - Optimized the performance of batch copy deletion job delivery by **1,900%**: improved execution efficiency from over 1 minute per job to 3 seconds per job, with support for 10-way concurrency.
+        - Optimized copy summary query performance by **37,400%**: improved million-copy queries from immediate OOM to returning results within 5 seconds, and reduced 200,000-copy query time from 5 minutes to 0.8 seconds.
+        - Optimized log export performance by **19,900%**: reduced page response time under heavy-load scenarios from 3 minutes to within 0.9 seconds.
+        - Optimized the upgrade speed of the `protectmanager-system-base` and `protectmanager-biz-service` pods by **1,000%**: reduced the pod upgrade process from 12 minutes to 90 seconds.
+        - Refactored the backup job delivery workflow for virtual machine groups, improving delivery speed by **13,400%**: reduced full-scale VM group backup job delivery time from 1.5 hours to 40 seconds.
         - Optimized the progress reporting mechanism for virtual machine group backup jobs. Through database operation improvements and finer-grained locks and transactions, resolved the issue where lock timeouts during reporting caused job status to remain unchanged for an hour and then fail automatically.
-        - Refactored the alarm and event dump mechanism, improving performance by 246,757%: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds.
-        - Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by 1,000%.
+        - Refactored the alarm and event dump mechanism, improving performance by **246,757%**: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds.
+        - Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by **1,000%**.
 - Served as the requirements analysis expert for the `Data Protection PDT`’s RAT backup software control-plane features, and as the feature SE for the `System Management & Protection Engine Business Team`
     1. Oversaw solution design for the `System Management & Protection Engine Business Team`, completing the analysis and decision-making of over 100 pending RAT requirements in real time.
     2. Oversaw solution implementation for the `System Management & Protection Engine Business Team`, completing the implementation and handling of over 35 pending RAT requirements in real time.
 - Served as the `Java`/`Python` Committer for the `Data Protection Development Department` across the `Protection Engine Team`, `System Management Team,` and `Infrastructure Platform Team`, ensuring high-quality code and fostering a strong code review culture
     1. Drove systematic remediation of security issues identified during reviews within the team’s DEG, promoting cross-module security scans and coordinating with PLs in each module to ensure full closure of issues.
     2. Enhanced the team’s code review culture by establishing review density as a key metric in the weekly quality report, and by sharing major review insights and issue-fixing experience in the daily 10-minute review briefing, significantly improving participation and review quality across modules
-        - `Protection Engine Team`: monthly per-capita review comments increased by 2,277%, from 1.8 to 41.
-        - `System Management Team`: monthly per-capita review comments increased by 400%, from 11 to 44.
-        - `Base Platform Team`: monthly per-capita review comments increased by 500%, from 7 to 35.
+        - `Protection Engine Team`: monthly per-capita review comments increased by **2,277%**, from 1.8 to 41.
+        - `System Management Team`: monthly per-capita review comments increased by **400%**, from 11 to 44.
+        - `Base Platform Team`: monthly per-capita review comments increased by **500%**, from 7 to 35.
     3. Received the Quality Guardian Award (June 2025): submitted 153 review comments—the highest in the entire development department (TOP 1). Among them were 58 performance and functional issues, plus identification of 15 security issues (including incomplete API authorization and hard-coded keys) and 5 database performance issues, effectively improving code quality before repository submission.
 - Trained 5 MDEs for talent pipeline building
     1. 2 for the `Protection Engine Team`
@@ -88,8 +88,8 @@
 - Scrum Lead of `OSA Fortress` team.
 - China Coordinator of `ECS/OBS DevOps Framework Release` V-team.
 - Released 2 US patents and 2 Chinese patents.
-- Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by 15%.
-- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
+- Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by **15%**.
+- Developed a storage data structure that saved the storage space by **5%** and sped up the object serialization efficiency by **7%**.
 - Provide high-efficiency `Java` code to the Elastic Cloud Storage System `ECS` and Object Storage `OBS`.
 - Provide `ECS` and `OBS` development support to various leading financial institutions worldwide (e.g., Goldman Sachs, Morgan Stanley, Citibank, RBC, etc.)
 - Dedicate to `JVM` Optimization, Distributed Cloud Storage, and High-concurrency `Java` development.
@@ -118,8 +118,8 @@
 **Software Development Engineer 1** | **Mar 2020 - Jul 2021**
 
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
-- Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
-- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from 60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
+- Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from **75%** to **95%**.
+- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from **60%** to **80%**. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
 - Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms, and data structure.
 
 ## NI - R&D Shanghai
@@ -127,8 +127,8 @@
 **Software Engineer** | **Mar 2019 - Feb 2020**
 
 - Designed and implemented an automated testing system with a result dashboard with `PyTest` and `scrapy`, integrated into the company's internal test platform using `RESTful` APIs and leveraged it into the everyday agile process of the team.
-- Provided `OneRT` Linux feed management and reduced the overall average bundle size by 5%.
-- Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved 10% of the asset lost cost.
+- Provided `OneRT` Linux feed management and reduced the overall average bundle size by **5%**.
+- Designed and Developed NISH Asset Management System Backend with `Flask` and `Docker`, integrated into the company's WeChat mini-app using `RESTful` APIs vastly improved the management of the site assets and saved **10%** of the asset lost cost.
 - Awards
     1. _2019 2nd Most Popular National Instruments Tech Week Project_
 
@@ -155,21 +155,21 @@
        - Code submitted into `master` branch: Over 52.2K lines.
        - Valid code review comments: Over 561 `issues`.
     2. Fixed and resolved over 135 difficult or performance related issue tickets.
-- Improved job scheduling performance by 10,400%: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`.
+- Improved job scheduling performance by **10,400%**: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`.
 - Designed and developed a `Nutanix` backup plugin for `ProtectManager`, producing over 3.3K lines of code in 3 days, with 0 defects during testing.
 - Designed and developed the `OceanProtect` Four-Eyes Authentication / MPA (Multi-Person Authorization) module, enabling the `OceanProtect` product to meet multiple regulatory and certification requirements across China and the European Union.
 - Proposed over 9 architecture improvement suggestions and led more than 22 performance optimizations
-    1. Refactored the `VMware` backup plug-in scanning logic of `ProtectManager`, improving performance by 1,100%: reduced the scan time for a 10,000-VM cluster from 2 hours to 10 minutes.
-    2. Optimized the `Redis` memory usage efficiency of the copy archival jobs by 3,557%: reduced memory consumption of the archival job queue for 10,000 copies from 2 GB to 56 MB.
-    3. Optimized the performance of batch job cancellation by 11,900%: improved processing speed from over 1 minute per job to 0.5 seconds per job, with support for 10-way concurrency.
-    4. Optimized the performance of batch copy deletion job delivery by 1,900%: improved execution efficiency from over 1 minute per job to 3 seconds per job, with support for 10-way concurrency.
-    5. Optimized copy summary query performance by 37,400%: improved million-copy queries from immediate OOM to returning results within 5 seconds, and reduced 200,000-copy query time from 5 minutes to 0.8 seconds.
-    6. Optimized log export performance by 19,900%: reduced page response time under heavy-load scenarios from 3 minutes to within 0.9 seconds.
-    7. Optimized the upgrade speed of the `protectmanager-system-base` and `protectmanager-biz-service` pods by 1,000%: reduced the pod upgrade process from 12 minutes to 90 seconds.
-    8. Refactored the backup job delivery workflow for virtual machine groups, improving delivery speed by 13,400%: reduced full-scale VM group backup job delivery time from 1.5 hours to 40 seconds.
+    1. Refactored the `VMware` backup plug-in scanning logic of `ProtectManager`, improving performance by **1,100%**: reduced the scan time for a 10,000-VM cluster from 2 hours to 10 minutes.
+    2. Optimized the `Redis` memory usage efficiency of the copy archival jobs by **3,557%**: reduced memory consumption of the archival job queue for 10,000 copies from 2 GB to 56 MB.
+    3. Optimized the performance of batch job cancellation by **11,900%**: improved processing speed from over 1 minute per job to 0.5 seconds per job, with support for 10-way concurrency.
+    4. Optimized the performance of batch copy deletion job delivery by **1,900%**: improved execution efficiency from over 1 minute per job to 3 seconds per job, with support for 10-way concurrency.
+    5. Optimized copy summary query performance by **37,400%**: improved million-copy queries from immediate OOM to returning results within 5 seconds, and reduced 200,000-copy query time from 5 minutes to 0.8 seconds.
+    6. Optimized log export performance by **19,900%**: reduced page response time under heavy-load scenarios from 3 minutes to within 0.9 seconds.
+    7. Optimized the upgrade speed of the `protectmanager-system-base` and `protectmanager-biz-service` pods by **1,000%**: reduced the pod upgrade process from 12 minutes to 90 seconds.
+    8. Refactored the backup job delivery workflow for virtual machine groups, improving delivery speed by **13,400%**: reduced full-scale VM group backup job delivery time from 1.5 hours to 40 seconds.
     9. Optimized the progress reporting mechanism for virtual machine group backup jobs. Through database operation improvements and finer-grained locks and transactions, resolved the issue where lock timeouts during reporting caused job status to remain unchanged for an hour and then fail automatically.
-    10. Refactored the alarm and event dump mechanism, improving performance by 246,757%: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds.
-    11. Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by 1,000%.
+    10. Refactored the alarm and event dump mechanism, improving performance by **246,757%**: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds.
+    11. Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by **1,000%**.
 
 ## Distributed Object Store Management by Mixed Recursive Cloud Delegation
 
@@ -190,16 +190,16 @@ Project Link: [https://www.dell.com/en-us/dt/storage/ecs/index.htm](https://www.
 
 - Scrum Lead of `OBS Metadata Layer 1` team.
 - Released 2 US patents and 2 Chinese patents.
-- Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by 15%.
-- Developed a storage data structure that saved the storage space by 5% and sped up the object serialization efficiency by 7%.
+- Developed a dumping algorithm and sped up the `ECS`/`OBS` `DT` write performance by **15%**.
+- Developed a storage data structure that saved the storage space by **5%** and sped up the object serialization efficiency by **7%**.
 - `OBS` is the `Kubernetes` deployment version of `ECS` and the future of `ECS`.
 - Tech Stack: `Java` + `Spring` + `ProtoBuf` + `Kubernetes` + `Docker` + `Jenkins` + `Grafana`
 
 ## `andgpu-pro` and `gim`
 
 - Fixed over 160 tickets for Linux KMD `amdgpu-pro` and `gim` in 1 year (normally, people fix 5 to 6 tickets per month)
-- Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from 75% to 95%.
-- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from 60% to 80%. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
+- Helped tech lead to improve the pass rate of the Virtualization Automatic Test System from **75%** to **95%**.
+- Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from **60%** to **80%**. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
 - Tech Stack: `C` + `Linux Kernel` + `SR-IOV` + `qemu` + `KVM`
 
 ## LiCMS - Li Xin Content Management System
@@ -218,5 +218,5 @@ GitHub Link: [https://github.com/realJustinLee/LiAg](https://github.com/realJust
 
 - Designed and developed a 3D modeling system with `WebGL` and `React.js` for people to model their favorite movie avatars and print them with a 3D printer.
 - Developed the interface system with `React.js` and webpage 3D modeling and rendering with `WebGL`. Containerized the app using `Docker`.
-- Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the output `STL` model file size by 30%.
+- Extended and Developed a custom `STLExporter` to fuze every model fragment into one 3D model and reduced the output `STL` model file size by **30%**.
 - Tech Stack: `JavaScript` + `React.js` + `Three.js` + `WebGL` + `Docker`
