@@ -25,7 +25,7 @@
 
 ## Huawei - Data Protection Architecture & Design
 
-**Senior Software Engineer A (17B) / Committter** | **Oct 2024 - Present**
+**Senior Software Engineer A (17B) / Committer** | **Oct 2024 - Present**
 
 - Served as Subsystem Architect, Feature SE, and DEG Leader for the `System Management & Protection Engine Business Team`. Acted as DE and FO for the `Protection Engine Team`, and as DE for both the `System Management Team` and the `Infrastructure Platform Team`: Oversaw requirements analysis, solution design, troubleshooting, and quality control across the full system lifecycle
     1. Coding net contribution
