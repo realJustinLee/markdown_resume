@@ -1,6 +1,6 @@
 # Justin Xin Li
 
-> Senior Engineer A **17B** | Huawei | justindelladam@live.com | +86 180 1601 5760 | Shanghai, P.R.China
+> Senior Engineer A **17B** | Huawei | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | Shanghai, P.R.China
 
 - Fluent English, IELTS **7.5**.
 - Professional Member of the China Computer Federation.
@@ -29,9 +29,9 @@
 
 - Served as Subsystem Architect, Feature SE, and DEG Leader for the `System Management & Protection Engine Business Team`. Acted as DE and FO for the `Protection Engine Team`, and as DE for both the `System Management Team` and the `Infrastructure Platform Team`: Oversaw requirements analysis, solution design, troubleshooting, and quality control across the full system lifecycle
     1. Coding net contribution
-        - Code submitted into `master` branch: Over 54.1K lines.
-        - Valid code review comments: Over 601 `issues`.
-    2. Fixed and resolved over 135 difficult or performance related issue tickets.
+        - Code submitted into `master` branch: Over 54.5K lines.
+        - Valid code review comments: Over 621 `issues`.
+    2. Fixed and resolved over 152 difficult or performance related issue tickets.
     3. Improved job scheduling performance by **10,400%**: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`.
     4. Designed and developed a `Nutanix` backup plugin for `ProtectManager`, producing over 3.3K lines of code in 3 days, with 0 defects during testing.
     5. Designed and developed the `OceanProtect` Four-Eyes Authentication / MPA (Multi-Person Authorization) module, enabling the `OceanProtect` product to meet multiple regulatory and certification requirements across China and the European Union
@@ -152,9 +152,9 @@
 
 - Served as Subsystem Architect, Feature SE, and DEG Leader for the `System Management & Protection Engine Business Team`. Acted as DE and FO for the `Protection Engine Team`, and as DE for both the `System Management Team` and the `Infrastructure Platform Team`
     1. Coding net contribution
-       - Code submitted into `master` branch: Over 52.2K lines.
-       - Valid code review comments: Over 561 `issues`.
-    2. Fixed and resolved over 135 difficult or performance related issue tickets.
+       - Code submitted into `master` branch: Over 54.5K lines.
+       - Valid code review comments: Over 621 `issues`.
+    2. Fixed and resolved over 152 difficult or performance related issue tickets.
 - Improved job scheduling performance by **10,400%**: Under peak concurrency, reduced job schedule initiation-to-execution time from over 35 minutes to less than 20 seconds, optimized time complexity from `O(n^2 * m)` to `O(n * m)`.
 - Designed and developed a `Nutanix` backup plugin for `ProtectManager`, producing over 3.3K lines of code in 3 days, with 0 defects during testing.
 - Designed and developed the `OceanProtect` Four-Eyes Authentication / MPA (Multi-Person Authorization) module, enabling the `OceanProtect` product to meet multiple regulatory and certification requirements across China and the European Union.
