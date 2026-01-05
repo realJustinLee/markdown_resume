@@ -1,6 +1,6 @@
 # 李欣
 
-> 高级工程师 A **17B** | 华为 | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | 中国上海
+> 高级工程师 A **17B** | 华为 | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | 中国上海 | 生日：1997 年 9 月 17 日
 
 - 英语流利，雅思 **7.5** 分。
 - 中国计算机学会专业会员。
