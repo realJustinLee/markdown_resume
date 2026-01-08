@@ -122,7 +122,7 @@
 - Designed and implemented a state machine to coordinate VM render requests and improve virtualization performance from **60%** to **80%**. (Ps. Virtualization performance = `sum(VM_FPS)/Bare_Metal_FPS`)
 - Lectured multiple times in internal tech sharing events about Linux Kernel development, algorithms, and data structure.
 
-## NI - R&D Shanghai
+## NI (National Instruments) - R&D Shanghai
 
 **Software Engineer** | **Mar 2019 - Feb 2020**
 
