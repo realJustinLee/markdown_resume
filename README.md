@@ -2,8 +2,11 @@
 
 > Senior Engineer A **17B** | Huawei | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | Shanghai, P.R.China
 
+**Architectural-focused senior engineer with 6+ years of experience designing and evolving large-scale distributed systems in cloud storage and data protection. Proven track record of owning architectural decisions under high concurrency, strict reliability requirements, and regulatory constraints.**
+
 - Fluent English, IELTS **7.5**.
 - Professional Member of the China Computer Federation.
+- Core expertise in **distributed system architecture, management & control-plane design, and performance governance**.
 - Proficient in `Java`, `Java` Concurrency, `JVM` optimization, Algorithms, Data Structure, and Distributed Storage.
 - Skilled in `Docker`, `Kubernetes`, `KVM`, and `SR-IOV`.
 - Also, Skilled in `Python`, `Javascript`, `React.js`, `C/C++`, `Jenkins`, `qTest`, and more.
@@ -16,6 +19,15 @@
 
 # Skills
 
+- **AI-Augmented Architectural Decision Governance**
+    - Designed and operated a **hybrid Human + AI architectural decision process** for DEG meetings covering infrastructure and management & control-plane design.
+    - Acted as **human decision owner and co-host**, while AI agents (`GPT`, `Gemini`, `Qwen`, `DeepSeek`) were intentionally used as structured challengers to surface scalability, security, and long-term maintainability risks.
+    - Established explicit decision ownership, documented trade-offs, and post-decision validation, significantly reducing architectural blind spots and preventing multiple high-risk design regressions prior to implementation.
+- **Architectural Design**
+    - Manage & control-plane and distributed system architecture for cloud-native platforms
+    - Architectural decision-making under scale, performance, and compliance constraints
+    - Performance, scalability, and reliability governance
+    - Cross-team design reviews and technical decision ownership
 - Team Management: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977).
 - Languages: `Java`, `Python`, `C/C++`, `JavaScript`, `SQL`.
 - Technologies: `Java` High Concurrency, `JVM` optimization, `Git`, Algorithms, Data Structure, Distrusted Storage, `Spring`, `Flask`, `React.js`, `Unix`/`Linux`, `Docker`, `PyTorch`, `WebGL`.
@@ -58,7 +70,7 @@
         - Refactored the alarm and event dump mechanism, improving performance by **246,757%**: reduced the dump time for 4 million alarm/event records from 24 hours to 35 seconds.
         - Designed and refactored the heartbeat reporting logic of the backup agent, increasing the number of agents managed per node by **1,000%**.
 - Served as the requirements analysis expert for the `Data Protection PDT`’s RAT backup software control-plane features, and as the feature SE for the `System Management & Protection Engine Business Team`
-    1. Oversaw solution design for the `System Management & Protection Engine Business Team`, completing the analysis and decision-making of over 100 pending RAT requirements in real time.
+    1. Oversaw solution design for the `System Management & Protection Engine Business Team`, completing the analysis and decision-making of over 110 pending RAT requirements in real time.
     2. Oversaw solution implementation for the `System Management & Protection Engine Business Team`, completing the implementation and handling of over 35 pending RAT requirements in real time.
 - Served as the `Java`/`Python` Committer for the `Data Protection Development Department` across the `Protection Engine Team`, `System Management Team,` and `Infrastructure Platform Team`, ensuring high-quality code and fostering a strong code review culture
     1. Drove systematic remediation of security issues identified during reviews within the team’s DEG, promoting cross-module security scans and coordinating with PLs in each module to ensure full closure of issues.
