@@ -108,7 +108,7 @@
 - 认可
     1. _Innovation: Nice work on the 2023 Hackathon Project_
 
-## `NISH` 资产管理系统
+## NI Shanghai 资产管理系统
 
 **NI - R&D Shanghai** | **2019 Tech Week**
 

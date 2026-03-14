@@ -108,7 +108,7 @@
 - Recognition
     1. _Innovation: Nice work on the 2023 Hackathon Project_
 
-## `NISH` Asset Management System
+## NI Shanghai Asset Management System
 
 **NI - R&D Shanghai** | **2019 Tech Week**
 
