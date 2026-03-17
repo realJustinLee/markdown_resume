@@ -10,8 +10,16 @@
 - Professional Member of the China Computer Federation (CCF)
 - Stack Overflow reputation: 890
 - GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
-- Patents: **2 US patents** and **2 Chinese patents** in distributed storage data processing, data read, and data update methods — [US 2024/0111810 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810), [US 2024/0111836 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836), `CN 202211217524.7`, `CN 202211215669.3`
-- Certifications: HSDC Professional (`Java`, `Python`), [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
+- Patents: **2 US patents** and **2 Chinese patents**
+    1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+    2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
+    3. Patent China `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
+    4. Patent China `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
+- Certifications
+    1. HSDC Professional, `Java`
+    2. HSDC Professional, `Python`
+    3. [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
+    4. [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review model for high-risk architecture decisions, explicitly combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
 - Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and developing tech leads
