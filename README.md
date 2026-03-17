@@ -117,29 +117,27 @@
 
 **Huawei - System Management & Protection Engine Business Team**
 
-- Role: subsystem architecture owner, cross-team technical lead, and co-chair of AI-augmented `DEG` governance for the control plane.
-- `OceanProtect` is Huawei's enterprise data-protection offering for next-generation data centers and multicloud environments, combining backup, recovery, copy management, and cyber-resilience capabilities on a unified platform for edge, core, and multicloud scenarios.
-- In integrated-appliance deployments, the product spans backup software, backup servers, backup storage, data management, and security capabilities such as `WORM`, anti-deletion, and `Air Gap`, which makes the management / control plane and protection-engine orchestration central to the overall system design.
-- As subsystem architecture owner, I drove control-plane technical roadmap, interface boundaries, and solution decisions across the protection engine, system management, and infrastructure platform teams, operating at the intersection of architecture leadership and cross-team technical management.
-- I introduced and co-chaired an AI-augmented `DEG` governance model with explicit human decision ownership, bringing in `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers to stress-test scalability, security, and long-term maintainability before implementation.
-- My contributions also covered redesigning scheduler, `Redis` archival-queue, and alarm / event processing paths, delivering compliance controls such as `MPA`, and building ecosystem integrations such as the `Nutanix` backup plugin across multiple teams.
+- Role: control-plane architecture owner, cross-team lead, and AI-augmented `DEG` co-chair.
+- `OceanProtect` is Huawei's unified data-protection platform for next-generation data centers and multicloud, covering backup, recovery, copy management, cyber resilience, and appliance security capabilities such as `WORM`, anti-deletion, and `Air Gap`.
+- I owned roadmap, interface boundaries, and solution decisions across the protection engine, system management, and infrastructure platform teams.
+- I introduced AI-augmented `DEG` governance with human decision ownership, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers before implementation.
+- I also led scheduler, `Redis` archival-queue, and alarm / event path refactoring, plus `MPA` compliance delivery and the `Nutanix` backup plugin.
 
 ## ECS / ObjectScale Distributed Object Storage Platform
 
 **Dell Technologies - Dell EMC**
 
-- Role: Scrum Lead, cross-site technical coordinator, and engineering owner for metadata, write-path, and `DT` automation / diagnostics workstreams.
-- `ECS` is Dell's enterprise object-storage platform, built around S3-compatible access, a globally distributed architecture, and a single global namespace for AI, analytics, backup, archive, and other large-scale unstructured-data workloads.
-- `ObjectScale` extends that foundation with a modernized, `Kubernetes`-based architecture and AI-ready object storage positioning, while carrying forward the trusted `ECS` workflows, automation, and APIs as the product line converges.
-- My contributions focused on cross-site delivery for metadata and write-path services, `DT` write optimization, storage data-structure design, engineering automation in `DT Automation` and `Fortress-Diag`, and the transition from `VMware`-based `ECS` toward `Kubernetes`-based `OBS` / `ObjectScale`.
+- Role: Scrum Lead, cross-site coordinator, and engineering owner for metadata, write path, and `DT` automation / diagnostics.
+- `ECS` is Dell's enterprise object-storage platform with S3-compatible access, global distribution, and a single namespace for large-scale unstructured data; `ObjectScale` extends it with a `Kubernetes`-based, AI-ready architecture while retaining `ECS` workflows and APIs.
+- I drove cross-site metadata and write-path delivery, `DT` write optimization, storage data-structure design, `DT Automation` / `Fortress-Diag`, and the `VMware` `ECS` to `Kubernetes` `OBS` / `ObjectScale` transition.
 
 ## Distributed Object Store Management by Mixed Recursive Cloud Delegation
 
 **Dell Technologies - Dell EMC** | **2023 Hackathon Project**
 
 - Role: project lead, solution architect, and primary developer.
-- Designed a self-recursive and cost-effective object-storage architecture that lets users access multiple storage backends through a unified interface.
-- The concept supported both singleton deployment patterns, such as cloud-drive fusion services, and cluster patterns where an object-storage cloud could both hold local data and delegate storage to other cloud services.
+- Designed a recursive, cost-efficient object-storage architecture with a unified interface across multiple backends.
+- Supported both singleton cloud-drive fusion deployments and self-recursive storage clusters that could hold local data and delegate to other clouds.
 - Recognition
     1. _Innovation: Nice work on the 2023 Hackathon Project_
 
@@ -147,26 +145,24 @@
 
 **AMD - Virtualization SRDC**
 
-- Role: primary feature developer and execution owner for `amdgpu-pro` / `GIM` virtualization delivery and validation improvement.
-- AMD's GPU virtualization stack is built around `MxGPU` / `SR-IOV`, allowing virtual machines to share accelerator resources efficiently in `QEMU` / `KVM` environments while preserving production-grade isolation, partitioning, and performance.
-- Within that stack, `amdgpu-pro` and `GIM` sit close to kernel-mode driver, GPU partitioning, render scheduling, and virtualization validation paths, making low-level execution quality and automated test coverage central to delivery.
-- My contributions focused on Linux driver and virtualization feature development across `amdgpu-pro` / `GIM`, high-volume end-to-end issue closure, VM render-request coordination through a dedicated state machine, and improving automated validation coverage and pass rates across the stack.
+- Role: primary developer and execution owner for `amdgpu-pro` / `GIM` virtualization delivery and validation.
+- AMD's GPU virtualization stack uses `MxGPU` / `SR-IOV` to share accelerators across `QEMU` / `KVM` VMs, with `amdgpu-pro` and `GIM` close to kernel-mode driver, partitioning, scheduling, and validation paths.
+- I built Linux driver and virtualization features, closed high-volume issues end to end, coordinated VM render requests with a state machine, and improved automated validation coverage and pass rates.
 
 ## Automated Validation Platform and OneRT Feed Engineering
 
 **NI (National Instruments) - R&D Shanghai**
 
 - Role: project lead, backend designer, and primary developer.
-- NI's official test software stack centers on automated validation and production test, with tools such as `TestStand` and `SystemLink` emphasizing automated execution, centralized dashboards, traceability, API integration, and software deployment across distributed test systems.
-- This internal project aligned with that broader test-operations model by building a lightweight validation platform around automated execution, data collection, dashboards, internal RESTful APIs, and `OneRT` Linux feed / package management for day-to-day R&D use.
-- My contributions focused on identifying repetitive validation bottlenecks, building the backend automation flow with `PyTest`, `scrapy`, dashboards, and APIs, and improving `OneRT` feed and bundle management to reduce manual effort and operational friction.
+- Aligned with NI's automated-test software model around `TestStand`, `SystemLink`, dashboards, traceability, APIs, and software deployment for distributed test systems.
+- I built a lightweight validation platform around automated execution, data collection, dashboards, internal RESTful APIs, and `OneRT` feed / package management, reducing manual regression and operational overhead.
 
 ## NI Shanghai Asset Management System
 
 **NI (National Instruments) - R&D Shanghai** | **2019 Tech Week**
 
 - Role: project lead, backend architect, and primary developer.
-- Conceived and built the backend with `Flask` and `Docker`, integrated it with the company's WeChat mini-app through RESTful APIs, and reduced asset loss cost by **10%**.
+- Built the backend with `Flask` and `Docker`, integrated it with the company's WeChat mini-app through RESTful APIs, and reduced asset-loss cost by **10%**.
 - Recognition
     1. _2019 2nd Most Popular National Instruments Tech Week Project_
 
