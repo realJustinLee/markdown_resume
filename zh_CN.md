@@ -10,6 +10,8 @@
 - 中国计算机学会（CCF）专业会员
 - Stack Overflow 声望值：890
 - GitHub Arctic Code Vault Contributor、GitHub Sponsor、GitHub Developer Program Member
+- 专利：**2 项美国专利** 与 **2 项中国专利**，覆盖分布式存储数据处理、读取与更新方法
+- 能力证书：华为软件开发能力认证专业级（`Java`、`Python`），[Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)，[Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - **AI 增强的架构决策治理**：设计并主持人类 + AI 混合的高风险架构评审机制，在明确人类决策归属的前提下，引入 `GPT`、`Gemini`、`Qwen`、`DeepSeek` 作为结构化质询者。
 - AI 时代基础设施、管控面架构、分布式系统、云存储、数据保护、性能与可靠性工程
 - 技术领导力：子系统 owner、跨团队设计评审、质量治理与 Tech Lead 培养

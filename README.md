@@ -10,6 +10,8 @@
 - Professional Member of the China Computer Federation (CCF)
 - Stack Overflow reputation: 890
 - GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
+- Patents: **2 US patents** and **2 Chinese patents** in distributed storage data processing, data read, and data update methods
+- Certifications: HSDC Professional (`Java`, `Python`), [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review model for high-risk architecture decisions, explicitly combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
 - Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and developing tech leads
