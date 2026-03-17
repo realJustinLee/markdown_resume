@@ -7,9 +7,9 @@
 # Core Expertise
 
 - Fluent English, IELTS **7.5**
-- **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review model for high-risk architecture decisions, explicitly combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
+- **AI-augmented architecture decision governance**: designed and chaired a human-led, AI-assisted review model for high-risk architecture decisions, combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
-- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and developing tech leads
+- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and tech-lead development
 - Patents: **2 US patents** and **2 Chinese patents**
     1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
@@ -32,9 +32,9 @@
 
 **Senior Software Engineer A (17B) / Committer** | **Oct 2024 - Present**
 
-- Owned subsystem architecture and technical roadmap for `OceanProtect` control-plane workflows spanning the protection engine, system management, and infrastructure platform teams.
+- Owned subsystem architecture and technical roadmap for `OceanProtect` across the Protection Engine, System Management, and Infrastructure Platform teams.
 - Drove cross-team architecture decisions, interface boundaries, quality gates, and deep-dive troubleshooting across three teams, operating as the technical lead for high-risk delivery and production issues.
-- Designed and operationalized a human-led, AI-agent-assisted architecture decision mechanism for `DEG` reviews across infrastructure and management / control-plane domains.
+- Designed and operationalized a human-led, AI-agent-assisted architecture decision mechanism for `DEG` reviews spanning the Protection Engine, System Management, and Infrastructure Platform teams.
 - Served as the human decision owner and co-chair, bringing in AI agents such as `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers to surface scalability, security, and long-term maintainability risks, with explicit decision logging and post-decision validation that prevented multiple high-risk architectural rollbacks and design defects before implementation.
 - Re-architected the job scheduler under peak concurrency, reducing initiation-to-execution latency from **35+ minutes** to **under 20 seconds** and improving time complexity from `O(n^2 * m)` to `O(n * m)`.
 - Led **22+** performance optimization and refactoring efforts across backup, query, export, and event-processing paths. Representative wins include reducing a **10,000-VM** scan from **2 hours** to **10 minutes**, cutting `Redis` memory usage for a **10,000-copy** archival queue from **2 GB** to **56 MB**, accelerating batch cancellation from **1 minute per job** to **0.5 seconds**, and reducing a **4 million-record** alarm/event dump from **24 hours** to **35 seconds**.
@@ -113,13 +113,13 @@
 
 # Portfolio
 
-## OceanProtect Control Plane and Data Protection Platform
+## OceanProtect Protection Engine, System Management, and Infrastructure Platform
 
 **Huawei - System Management & Protection Engine Business Team**
 
-- Role: control-plane architecture owner, cross-team lead, and AI-augmented `DEG` co-chair.
+- Role: subsystem architecture owner, cross-team technical lead, and AI-augmented `DEG` co-chair across the Protection Engine, System Management, and Infrastructure Platform teams.
 - `OceanProtect` is Huawei's unified data-protection platform for next-generation data centers and multicloud, covering backup, recovery, copy management, cyber resilience, and appliance security capabilities such as `WORM`, anti-deletion, and `Air Gap`.
-- I owned roadmap, interface boundaries, and solution decisions across the protection engine, system management, and infrastructure platform teams.
+- I owned roadmap, interface boundaries, and solution decisions across the Protection Engine, System Management, and Infrastructure Platform teams.
 - I introduced AI-augmented `DEG` governance with clear human decision ownership, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers before implementation.
 - I also led scheduler redesign, `Redis` archival-queue memory optimization, alarm / event path refactoring, `MPA` compliance delivery, and the `Nutanix` backup plugin.
 
@@ -154,7 +154,7 @@
 **NI (National Instruments) - R&D Shanghai**
 
 - Role: project lead, backend designer, and primary developer.
-- The project aligned with NI's automated-test software model around `TestStand`, `SystemLink`, dashboards, traceability, APIs, and software deployment for distributed test systems.
+- The project aligned with NI's automated test software model, centered on `TestStand`, `SystemLink`, dashboards, traceability, APIs, and software deployment for distributed test systems.
 - I built a lightweight validation platform around automated execution, data collection, dashboards, internal RESTful APIs, and `OneRT` feed / package management, reducing manual regression and operational overhead.
 
 ## NI Shanghai Asset Management System
