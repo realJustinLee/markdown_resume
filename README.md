@@ -7,9 +7,9 @@
 # Core Expertise
 
 - Fluent English, IELTS **7.5**
-- Professional Member of the China Computer Federation (CCF)
-- Stack Overflow reputation: 890
-- GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
+- **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review model for high-risk architecture decisions, explicitly combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
+- AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
+- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and developing tech leads
 - Patents: **2 US patents** and **2 Chinese patents**
     1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
@@ -20,9 +20,9 @@
     2. HSDC Professional, `Python`
     3. [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
     4. [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
-- **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review model for high-risk architecture decisions, explicitly combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
-- AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
-- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and developing tech leads
+- Professional Member of the China Computer Federation (CCF)
+- Stack Overflow reputation: 890
+- GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
 - Languages: `Java`, `Python`, `C/C++`, `JavaScript`, `SQL`
 - Platforms & tools: `Kubernetes`, `Docker`, `Linux`, `KVM`, `SR-IOV`, `Spring`, `Flask`, `React.js`, `Three.js`, `WebGL`
 
