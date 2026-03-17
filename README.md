@@ -10,7 +10,7 @@
 - Professional Member of the China Computer Federation (CCF)
 - Stack Overflow reputation: 890
 - GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
-- Patents: **2 US patents** and **2 Chinese patents** in distributed storage data processing, data read, and data update methods
+- Patents: **2 US patents** and **2 Chinese patents** in distributed storage data processing, data read, and data update methods — [US 2024/0111810 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810), [US 2024/0111836 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836), `CN 202211217524.7`, `CN 202211215669.3`
 - Certifications: HSDC Professional (`Java`, `Python`), [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098), [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review model for high-risk architecture decisions, explicitly combining human decision ownership with `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
@@ -53,8 +53,12 @@
 - Invented a dump/write optimization algorithm for the `DT` path, improving `ECS` / `OBS` write performance by **15%**.
 - Contributed to internal engineering frameworks including `DT Automation` and `Fortress-Diag`, adding automatic diagnosis/repair flows for the `DT` module and integrating `qTest` with the existing `Jenkins` `CI` / `CD` automation workflow.
 - Designed a storage data structure that reduced storage footprint by **5%** and improved object serialization efficiency by **7%**.
-- Co-authored **2 US patents** and **2 Chinese patents** covering distributed storage data processing, data read, and data update methods.
 - Delivered engineering support for enterprise storage platforms adopted by major global financial institutions including Goldman Sachs, Morgan Stanley, Citibank, and RBC.
+- Patents
+    1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+    2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
+    3. Patent China `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
+    4. Patent China `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications
     1. `RPO-6903098`: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
     2. `RSM-2901977`: [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)

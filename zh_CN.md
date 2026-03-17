@@ -10,7 +10,7 @@
 - 中国计算机学会（CCF）专业会员
 - Stack Overflow 声望值：890
 - GitHub Arctic Code Vault Contributor、GitHub Sponsor、GitHub Developer Program Member
-- 专利：**2 项美国专利** 与 **2 项中国专利**，覆盖分布式存储数据处理、读取与更新方法
+- 专利：**2 项美国专利** 与 **2 项中国专利**，覆盖分布式存储数据处理、读取与更新方法 —— [US 2024/0111810 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)、[US 2024/0111836 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)、`CN 202211217524.7`、`CN 202211215669.3`
 - 能力证书：华为软件开发能力认证专业级（`Java`、`Python`），[Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)，[Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
 - **AI 增强的架构决策治理**：设计并主持人类 + AI 混合的高风险架构评审机制，在明确人类决策归属的前提下，引入 `GPT`、`Gemini`、`Qwen`、`DeepSeek` 作为结构化质询者。
 - AI 时代基础设施、管控面架构、分布式系统、云存储、数据保护、性能与可靠性工程
@@ -53,8 +53,12 @@
 - 设计 dumping/write 优化算法，使 `ECS` / `OBS` 的 `DT` 写入性能提升 **15%**。
 - 参与 `DT Automation` 与 `Fortress-Diag` 等内部工程框架建设，为 `DT` 模块补充自动诊断与修复流程，并完成 `qTest` 与现有 `Jenkins` `CI` / `CD` 自动化工作流的集成。
 - 设计新的存储数据结构，使存储占用下降 **5%**、对象序列化效率提升 **7%**。
-- 共同产出 **2 项美国专利** 与 **2 项中国专利**，覆盖分布式存储中的数据读取、更新与处理方法。
 - 支撑面向高盛、摩根士丹利、花旗、RBC 等全球金融机构使用的企业级对象存储平台。
+- 专利
+    1. 美国专利 `US 2024/0111810 A1`：[Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+    2. 美国专利 `US 2024/0111836 A1`：[Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
+    3. 中国专利 `202211217524.7`：数据处理方法、电子设备和计算机程序产品
+    4. 中国专利 `202211215669.3`：数据读取方法、数据更新方法、电子设备和程序产品
 - 证书
     1. `RPO-6903098`: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
     2. `RSM-2901977`: [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
