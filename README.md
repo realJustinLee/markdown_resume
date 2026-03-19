@@ -9,7 +9,7 @@
 - Fluent English, IELTS **7.5**
 - **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review mechanism for high-risk architecture decisions, with clear human decision ownership and `GPT`, `Gemini`, `Qwen`, and `DeepSeek` acting as structured challengers.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
-- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and tech-lead development
+- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and Tech Lead development
 - Patents: **2 US patents** and **2 Chinese patents**
     1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
@@ -38,7 +38,7 @@
 - Served as the human decision owner and co-chair, bringing in AI agents such as `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers to surface scalability, security, and long-term maintainability risks, with explicit decision logging and post-decision validation that prevented multiple high-risk architectural rollbacks and design defects before implementation.
 - Re-architected the job scheduler under peak concurrency, reducing initiation-to-execution latency from **35+ minutes** to **under 20 seconds** and improving time complexity from `O(n^2 * m)` to `O(n * m)`.
 - Led **22+** performance optimization and refactoring efforts across backup, query, export, and event-processing paths. Representative wins include reducing a **10,000-VM** scan from **2 hours** to **10 minutes**, cutting `Redis` memory usage for a **10,000-copy** archival queue from **2 GB** to **56 MB**, accelerating batch cancellation from **1 minute per job** to **0.5 seconds**, and reducing a **4 million-record** alarm/event dump from **24 hours** to **35 seconds**.
-- Designed and delivered the `OceanProtect` Four-Eyes Authorization / `MPA` module, helping the product meet Chinese and EU regulatory requirements including `GB/T 35273-2020`, `DORA`, and `EBA` ICT security guidance.
+- Designed and delivered the `OceanProtect` `Four-Eyes Authentication` / `MPA` module, helping the product meet Chinese and EU regulatory requirements including `GB/T 35273-2020`, `DORA`, and `EBA` ICT security guidance.
 - Designed and implemented a `Nutanix` backup plugin for `ProtectManager` in **3 days** with **3.3K+ LOC**, and handed it off with **zero defects** in testing.
 - Led diagnosis and resolution of **75+** critical production issues across global enterprise customers including Petrobras, WeBank, China Mobile, and Emaar.
 - As a department-level `Java` / `Python` committer, I contributed **54.5K+ LOC** merged into `master` and drove code review and defect prevention across the three teams: produced **621+** review findings, identified **15** security issues and **5** database performance issues, and developed **5** Tech Leads.
@@ -92,7 +92,7 @@
 
 **Software Engineer** | **Mar 2019 - Feb 2020**
 
-- Identified repetitive validation bottlenecks and built an automated testing platform with `PyTest`, `scrapy`, and dashboards, integrating it with internal RESTful APIs and the team's daily agile workflow.
+- Identified repetitive validation bottlenecks and built an automated testing platform with `PyTest`, `scrapy`, and dashboards, integrating it with internal `RESTful APIs` and the team's daily agile workflow.
 - Improved `OneRT` Linux feed management and reduced average bundle size by **5%**, reflecting a pragmatic engineering mindset.
 - Awards
     1. _2019 2nd Most Popular National Instruments Tech Week Project_
@@ -113,7 +113,7 @@
 
 # Portfolio
 
-## OceanProtect Protection Engine, System Management, and Infrastructure Platform
+## `OceanProtect` Protection Engine, System Management, and Infrastructure Platform
 
 **Huawei - Data Protection Architecture & Design**
 
@@ -123,7 +123,7 @@
 - I introduced AI-augmented `DEG` governance with clear human decision ownership, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers before implementation.
 - I also led scheduler redesign, `Redis` archival-queue memory optimization, alarm / event path refactoring, `MPA` compliance delivery, and the `Nutanix` backup plugin.
 
-## ECS / ObjectScale Distributed Object Storage Platform
+## `ECS` / `ObjectScale` Distributed Object Storage Platform
 
 **Dell Technologies - Dell EMC**
 
@@ -149,35 +149,35 @@
 - AMD's GPU virtualization stack uses `MxGPU` / `SR-IOV` to share accelerators across `QEMU` / `KVM` VMs, with `amdgpu-pro` and `GIM` close to kernel-mode driver, partitioning, scheduling, and validation paths.
 - I built Linux driver and virtualization features, closed high-volume issues end to end, coordinated VM render requests with a state machine, and improved automated validation coverage and pass rates.
 
-## Automated Validation Platform and OneRT Feed Engineering
+## Automated Validation Platform and `OneRT` Feed Engineering
 
 **NI (National Instruments) - R&D Shanghai**
 
-- Role: project lead, backend designer, and primary developer.
+- Role: backend designer and primary developer.
 - The project aligned with NI's automated test software model, centered on `TestStand`, `SystemLink`, dashboards, traceability, APIs, and software deployment for distributed test systems.
-- I built a lightweight validation platform around automated execution, data collection, dashboards, internal RESTful APIs, and `OneRT` feed / package management, reducing manual regression and operational overhead.
+- I built a lightweight validation platform around automated execution, data collection, dashboards, internal `RESTful APIs`, and `OneRT` feed / package management, reducing manual regression and operational overhead.
 
 ## NI Shanghai Asset Management System
 
 **NI (National Instruments) - R&D Shanghai** | **2019 Tech Week**
 
 - Role: project lead, backend architect, and primary developer.
-- Built the backend with `Flask` and `Docker`, integrated it with the company's WeChat mini-app through RESTful APIs, and reduced asset-loss costs by **10%**.
+- Built the backend with `Flask` and `Docker`, integrated it with the company's `WeChat` mini-app through `RESTful APIs`, and reduced asset-loss costs by **10%**.
 - Recognition
     1. _2019 2nd Most Popular National Instruments Tech Week Project_
 
-## LiCMS - Open Source Content Management System
+## `LiCMS` - Open Source Content Management System
 
 **GitHub:** [https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | **Online Preview:** [https://www.1a2.org](https://www.1a2.org)
 
 - Role: founder, architect, and sole developer.
 - Built `LiCMS` from scratch and continued evolving it from the first commit into a deployable content platform, personally leading the full journey through **321 commits**.
-- Designed a modular `Flask` app-factory architecture with dedicated `main`, `auth`, `api`, and `dev_ops` blueprints, layered configuration for `development`, `testing`, `docker`, `heroku`, and `unix`, plus `SQLAlchemy` models and migrations for sustainable evolution.
+- Designed a modular `Flask` `App Factory` + `Blueprint` architecture with dedicated `main`, `auth`, `api`, and `dev_ops` boundaries, layered configuration for `development`, `testing`, `docker`, `heroku`, and `unix`, plus `SQLAlchemy` models and migrations for sustainable evolution.
 - Implemented end-to-end product capabilities including role-based access control, email-confirmed registration, Markdown-based posts, comments, follow graph and timeline, paste-sharing, `JWT`-backed API authentication, `TOTP`-based 2FA, and self-service email/password/2FA recovery flows built on signed tokens.
-- Built the engineering and operations toolchain around the product, including Flask CLI commands for `test`, `profile`, and `deploy`, unit/API/Selenium test suites with coverage reports, and a deployable `Docker Compose` stack integrating `MariaDB`, `Nginx`, `Certbot`, `gunicorn`, HTTPS renewal, and production error email alerts.
-- Continued hardening and evolving the system through dependency governance, migration of signed token flows from `itsdangerous` to `JWT`, `SQLAlchemy` modernization, `Bootstrap 5` migration, and runtime improvements including HTTPS, reverse proxying, and error-alert email notifications.
+- Built the engineering and operations toolchain around the product, including `Flask CLI` commands for `test`, `profile`, and `deploy`, unit / API / `Selenium` test suites with coverage reports, and a deployable `Docker Compose` stack integrating `MariaDB`, `Nginx`, `Certbot`, `gunicorn`, `HTTPS` renewal, and production error email alerts.
+- Continued hardening and evolving the system through dependency governance, migration of signed token flows from `itsdangerous` to `JWT`, `SQLAlchemy` modernization, `Bootstrap 5` migration, and runtime improvements including `HTTPS`, reverse proxying, and error-alert email notifications.
 
-## LiAg - Open Source 3D Avatar Generator
+## `LiAg` - Open Source 3D Avatar Generator
 
 **GitHub:** [https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | **Online Preview:** [https://liag.1a2.org](https://liag.1a2.org)
 

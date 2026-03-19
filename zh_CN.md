@@ -38,7 +38,7 @@
 - 作为人类决策负责人及联合主持人，引入 `GPT`、`Gemini`、`Qwen`、`DeepSeek` 等 AI Agent 作为结构化质询者，识别系统在可扩展性、安全性和长期可维护性上的潜在风险，并通过决策留痕与决策后验证机制，在实现前避免了多起高风险架构回退与设计缺陷。
 - 在满并发场景下重构任务调度器，将任务从发起到执行的时延从 **35+ 分钟** 降至 **20 秒以内**，并将时间复杂度从 `O(n^2 * m)` 优化为 `O(n * m)`。
 - 主导 **22+** 项性能优化与重构，覆盖备份、查询、导出和事件处理链路。代表性成果包括：10,000 台虚拟机扫描从 **2 小时** 缩短到 **10 分钟**，10,000 个副本归档队列的 `Redis` 内存占用从 **2 GB** 降至 **56 MB**，批量取消从 **1 分钟/任务** 降至 **0.5 秒/任务**，400 万条告警/事件转储从 **24 小时** 缩短到 **35 秒**。
-- 设计并交付 `OceanProtect` 四眼审批 / `MPA` 模块，支撑产品满足 `GB/T 35273-2020`、`DORA`、`EBA` 等中国和欧盟合规要求。
+- 设计并交付 `OceanProtect` `四眼认证` / `MPA` 模块，支撑产品满足 `GB/T 35273-2020`、`DORA`、`EBA` 等中国和欧盟合规要求。
 - 在 **3 天** 内设计实现 `ProtectManager` 的 `Nutanix` 备份插件，产出 **3.3K+** 行代码，转测 **0 缺陷**。
 - 主导 **75+** 起关键现网问题的定位与解决，覆盖 Petrobras、微众银行、中国移动、Emaar 等全球企业客户。
 - 作为部门级 `Java` / `Python` Committer，累计向 `master` 分支提交 **54.5K+** 行代码，并推动三支团队的代码评审和缺陷预防，累计输出 **621+** 条检视意见，识别 **15** 个安全问题和 **5** 个数据库性能问题，并培养 **5** 名 Tech Lead。
@@ -56,7 +56,7 @@
 
 **Software Engineer 2 (IC-6)** | **2021 年 8 月 - 2024 年 10 月**
 
-- 担任 `OBS Metadata Layer 1` 与 `OSA Fortress` 团队 Scrum Lead，并担任 `ECS` / `OBS` DevOps Framework Release 虚拟团队的中方联络人，负责跨地域执行协同与版本节奏推进。
+- 担任 `OBS Metadata Layer 1` 与 `OSA Fortress` 团队的 Scrum Lead，并担任 `ECS` / `OBS` DevOps Framework Release 虚拟团队的中方联络人，负责跨地域执行协同与版本节奏推进。
 - 协同中国与海外团队推进 `ECS` 与 `ObjectScale` 分布式存储交付，聚焦元数据与数据链路性能、工程化能力，以及从 `VMware` 版 `ECS` 向 `Kubernetes` 版 `OBS` 的演进。
 - 设计 `DT` 写入链路优化算法，使 `ECS` / `OBS` 的写入性能提升 **15%**。
 - 参与 `DT Automation` 与 `Fortress-Diag` 等内部工程框架建设，为 `DT` 模块补充自动诊断与修复流程，并完成 `qTest` 与现有 `Jenkins` `CI` / `CD` 自动化工作流的集成。
@@ -92,7 +92,7 @@
 
 **Software Engineer** | **2019 年 3 月 - 2020 年 2 月**
 
-- 识别重复验证与人工回归瓶颈，使用 `PyTest`、`scrapy` 和仪表板搭建自动化测试平台，并通过内部 RESTful API 集成到团队日常敏捷流程中。
+- 识别重复验证与人工回归瓶颈，使用 `PyTest`、`scrapy` 和仪表板搭建自动化测试平台，并通过内部 `RESTful API` 集成到团队日常敏捷流程中。
 - 参与 `OneRT` Linux feed 管理，使平均 bundle 体积下降 **5%**，体现了偏向实用主义的工程创新思维。
 - 奖项
     1. _2019 2nd Most Popular National Instruments Tech Week Project_
@@ -153,31 +153,31 @@
 
 **NI (美国国家仪器) - R&D Shanghai**
 
-- 项目角色：项目负责人、后端设计者、主要开发者。
+- 项目角色：后端设计者、主要开发者。
 - 项目思路与 NI 以 `TestStand`、`SystemLink`、看板、可追溯性、API 和分布式测试系统部署为核心的自动化测试体系一致。
-- 我搭建了包含自动执行、数据采集、看板、内部 RESTful API 与 `OneRT` feed / package 管理的轻量验证平台，降低人工回归与运维成本。
+- 我搭建了包含自动执行、数据采集、看板、内部 `RESTful API` 与 `OneRT` feed / package 管理的轻量验证平台，降低人工回归与运维成本。
 
 ## NI Shanghai 资产管理系统
 
 **NI (美国国家仪器) - R&D Shanghai** | **2019 Tech Week**
 
 - 项目角色：项目负责人、后端架构设计者、主要开发者。
-- 基于 `Flask` 与 `Docker` 开发后端，通过 RESTful API 接入公司微信小程序，将资产损失成本降低 **10%**。
+- 基于 `Flask` 与 `Docker` 开发后端，通过 `RESTful API` 接入公司微信小程序，将资产损失成本降低 **10%**。
 - 认可
     1. _2019 2nd Most Popular National Instruments Tech Week Project_
 
-## LiCMS - 开源内容管理系统
+## `LiCMS` - 开源内容管理系统
 
 **GitHub：** [https://github.com/realJustinLee/LiCMS](https://github.com/realJustinLee/LiCMS) | **在线预览：** [https://www.1a2.org](https://www.1a2.org)
 
 - 项目角色：项目发起人、系统架构设计者、独立开发者。
 - 从 0 到 1 设计、开发并持续演进开源 `LiCMS`，从首个 commit 到可部署产品全程主导，基于 **321 次 commit** 将其从脚手架逐步打磨为完整内容平台。
-- 设计基于 `Flask` App Factory + Blueprint 的模块化架构，拆分 `main`、`auth`、`api`、`dev_ops` 四类边界，结合 `SQLAlchemy` 模型、数据库迁移和 `development` / `testing` / `docker` / `heroku` / `unix` 多环境配置，支撑长期演进。
+- 设计基于 `Flask` `App Factory` + `Blueprint` 的模块化架构，拆分 `main`、`auth`、`api`、`dev_ops` 四类边界，结合 `SQLAlchemy` 模型、数据库迁移和 `development` / `testing` / `docker` / `heroku` / `unix` 多环境配置，支撑长期演进。
 - 逐步实现完整产品能力，包括基于角色的权限控制、邮箱确认注册、Markdown 帖子、评论、关注关系与时间线、Paste 分享、基于 `JWT` 的 API 认证、基于 `TOTP` 的 2FA，以及建立在签名 token 之上的邮箱 / 密码 / 2FA 自助恢复链路。
-- 自建工程与运维闭环，提供 Flask CLI 的 `test` / `profile` / `deploy` 命令、单元测试 / API 测试 / Selenium 测试与覆盖率报告，并通过 `Docker Compose` + `MariaDB` + `Nginx` + `Certbot` + `gunicorn` 形成可直接部署的生产栈。
-- 持续推进安全和技术演进，包括依赖治理、将签名 token 流程从 `itsdangerous` 迁移到 `JWT`、`SQLAlchemy` 现代化、`Bootstrap 5` 升级，以及 HTTPS、反向代理和错误邮件告警等运行能力建设。
+- 自建工程与运维闭环，提供 `Flask CLI` 的 `test` / `profile` / `deploy` 命令、单元测试 / API 测试 / `Selenium` 测试与覆盖率报告，并通过 `Docker Compose` + `MariaDB` + `Nginx` + `Certbot` + `gunicorn` 形成可直接部署的生产栈。
+- 持续推进安全和技术演进，包括依赖治理、将签名 token 流程从 `itsdangerous` 迁移到 `JWT`、`SQLAlchemy` 现代化、`Bootstrap 5` 升级，以及 `HTTPS`、反向代理和错误邮件告警等运行能力建设。
 
-## LiAg - 开源 3D 角色生成器
+## `LiAg` - 开源 3D 角色生成器
 
 **GitHub：** [https://github.com/realJustinLee/LiAg](https://github.com/realJustinLee/LiAg) | **在线预览：** [https://liag.1a2.org](https://liag.1a2.org)
 
