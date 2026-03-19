@@ -115,7 +115,7 @@
 
 ## OceanProtect Protection Engine, System Management, and Infrastructure Platform
 
-**Huawei - System Management & Protection Engine Business Team**
+**Huawei - Data Protection Architecture & Design**
 
 - Role: subsystem architecture owner, cross-team technical lead, and AI-augmented `DEG` co-chair across the Protection Engine, System Management, and Infrastructure Platform teams.
 - `OceanProtect` is Huawei's unified data-protection platform for next-generation data centers and multicloud, covering backup, recovery, copy management, cyber resilience, and appliance security capabilities such as `WORM`, anti-deletion, and `Air Gap`.
