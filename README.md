@@ -11,8 +11,8 @@
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
 - Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and Tech Lead development
 - Patents: **2 US patents** and **2 Chinese patents**
-    1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
-    2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
+    1. US Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+    2. US Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
     3. Chinese Patent `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
     4. Chinese Patent `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications
@@ -63,8 +63,8 @@
 - Designed a storage data structure that reduced storage footprint by **5%** and improved object serialization efficiency by **7%**.
 - Delivered engineering support for enterprise storage platforms adopted by major global financial institutions including Goldman Sachs, Morgan Stanley, Citibank, and RBC.
 - Patents
-    1. Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
-    2. Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
+    1. US Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
+    2. US Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
     3. Chinese Patent `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
     4. Chinese Patent `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
 - Certifications
