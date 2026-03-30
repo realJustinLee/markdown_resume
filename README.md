@@ -32,7 +32,7 @@
 
 **Senior Software Engineer A (17B) / Committer** | **Oct 2024 - Present**
 
-- Owned subsystem architecture and technical roadmap across the Protection Engine, System Management, and Infrastructure Platform teams within the `OceanProtect` Control Business Team.
+- Served as subsystem architect across the Protection Engine, System Management, and Infrastructure Platform teams within the `OceanProtect` Control Business Team, leading architecture design and technical roadmap planning.
 - Worked across the three teams to drive cross-module architecture decisions, interface-boundary governance, quality gates, and deep-dive troubleshooting, serving as the technical lead on high-risk requirements and production issues.
 - Designed and rolled out a human-led, AI-agent-assisted architecture decision mechanism for `DEG` reviews on topics spanning the Protection Engine, System Management, and Infrastructure Platform teams.
 - Served as the human decision owner and co-chair, bringing in AI agents such as `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers to surface scalability, security, and long-term maintainability risks, with explicit decision logging and post-decision validation that prevented multiple high-risk architectural rollbacks and design defects before implementation.
@@ -117,9 +117,9 @@
 
 **Huawei - Data Protection Architecture & Design**
 
-- Role: subsystem architecture owner, cross-team technical lead, and AI-augmented `DEG` co-chair across the Protection Engine, System Management, and Infrastructure Platform teams.
+- Role: subsystem architect, cross-team technical lead, and AI-augmented `DEG` co-chair across the Protection Engine, System Management, and Infrastructure Platform teams.
 - `OceanProtect` is Huawei's unified data-protection platform for next-generation data centers and multicloud, covering backup, recovery, copy management, cyber resilience, and appliance-grade security capabilities such as `WORM`, anti-deletion, and `Air Gap`.
-- I owned roadmap, interface boundaries, and solution decisions across the Protection Engine, System Management, and Infrastructure Platform teams.
+- I drove roadmap planning, interface-boundary governance, and solution decisions across the Protection Engine, System Management, and Infrastructure Platform teams.
 - I introduced AI-augmented `DEG` governance with clear human decision ownership, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers before implementation.
 - I also led scheduler redesign, `Redis` archival-queue memory optimization, alarm / event path refactoring, `MPA` compliance delivery, and the `Nutanix` backup plugin.
 
