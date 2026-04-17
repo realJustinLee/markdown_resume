@@ -2,7 +2,7 @@
 
 > Shanghai, China | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | [GitHub](https://github.com/realJustinLee)
 
-**Senior software engineer with 6+ years of experience in distributed systems, cloud platforms, data-protection control planes, and AI-era architecture governance. Strong track record in subsystem architecture, human-plus-AI decision governance, large-scale performance refactoring, and cross-team technical leadership.**
+**Senior engineer with 6+ years of experience in distributed systems, cloud platforms, data-protection control planes, and AI-era architecture governance. Strong track record in subsystem architecture, human-plus-AI decision governance, large-scale performance refactoring, and cross-team technical leadership.**
 
 # Core Expertise
 
