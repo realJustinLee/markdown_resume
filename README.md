@@ -30,7 +30,7 @@
 
 ## Huawei - Data Protection Architecture & Design
 
-**Senior Software Engineer A (17B) / Committer** | **Oct 2024 - Present**
+**Senior Engineer A (17B) / Committer** | **Oct 2024 - Present**
 
 - Served as subsystem architect across the Protection Engine, System Management, and Infrastructure Platform teams within the `OceanProtect` Control Business Team, leading architecture design and technical roadmap planning.
 - Worked across the three teams to drive cross-module architecture decisions, interface-boundary governance, quality gates, and deep-dive troubleshooting, serving as the technical lead on high-risk requirements and production issues.
