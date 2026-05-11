@@ -101,7 +101,7 @@
 
 ## Shanghai University - School of Computer Engineering and Science
 
-**B.Sc. Computer Science** | **Sep 2015 - Jul 2019**
+**B.Eng. in Computer Science and Technology** | **Sep 2015 - Jul 2019**
 
 - Lecturer at Shanghai University Open Source Community
 - Awards
