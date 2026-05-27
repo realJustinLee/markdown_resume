@@ -13,8 +13,8 @@
 - Patents: **2 US patents** and **2 Chinese patents**
     1. US Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. US Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
-    3. Chinese Patent `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
-    4. Chinese Patent `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
+    3. Chinese Patent `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
+    4. Chinese Patent `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
 - Certifications
     1. HSDC Professional, `Java`
     2. HSDC Professional, `Python`
@@ -30,7 +30,7 @@
 
 ## Huawei - Data Protection Architecture & Design
 
-**Senior Engineer A (17B) / Committer** | **Oct 2024 - Present**
+**Senior Engineer A (17B) / Committer** | **Oct 2024 - Mar 2026**
 
 - Served as subsystem architect across the Protection Engine, System Management, and Infrastructure Platform teams within the `OceanProtect` Control Business Team, leading architecture design and technical roadmap planning.
 - Worked across the three teams to drive cross-module architecture decisions, interface-boundary governance, quality gates, and deep-dive troubleshooting, serving as the technical lead on high-risk requirements and production issues.
@@ -65,8 +65,8 @@
 - Patents
     1. US Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. US Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
-    3. Chinese Patent `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
-    4. Chinese Patent `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
+    3. Chinese Patent `202211215669.3`: 数据读取方法、数据更新方法、电子设备和程序产品
+    4. Chinese Patent `202211217524.7`: 数据处理方法、电子设备和计算机程序产品
 - Certifications
     1. `RPO-6903098`: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
     2. `RSM-2901977`: [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)

@@ -13,8 +13,8 @@
 - 专利：**2 项美国专利**、**2 项中国专利**
     1. 美国专利 `US 2024/0111810 A1`：[Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. 美国专利 `US 2024/0111836 A1`：[Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
-    3. 中国专利 `202211217524.7`：数据处理方法、电子设备和计算机程序产品
-    4. 中国专利 `202211215669.3`：数据读取方法、数据更新方法、电子设备和程序产品
+    3. 中国专利 `202211215669.3`：数据读取方法、数据更新方法、电子设备和程序产品
+    4. 中国专利 `202211217524.7`：数据处理方法、电子设备和计算机程序产品
 - 能力证书
     1. 华为软件开发能力认证专业级（`Java`）
     2. 华为软件开发能力认证专业级（`Python`）
@@ -30,7 +30,7 @@
 
 ## 华为 - 数据保护架构与设计
 
-**高级工程师 A (17B) / Committer** | **2024 年 10 月 - 现在**
+**高级工程师 A (17B) / Committer** | **2024 年 10 月 - 2026 年 3 月**
 
 - 担任 `OceanProtect` 管控业务团队中保护引擎、系统管理和基础平台相关领域的子系统架构师，负责子系统架构设计与技术路线规划。
 - 协同三支团队推进跨模块架构决策、接口边界治理、质量门禁与疑难问题攻关，在高风险需求和现网问题中承担技术负责人角色。
@@ -65,8 +65,8 @@
 - 专利
     1. 美国专利 `US 2024/0111810 A1`：[Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. 美国专利 `US 2024/0111836 A1`：[Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
-    3. 中国专利 `202211217524.7`：数据处理方法、电子设备和计算机程序产品
-    4. 中国专利 `202211215669.3`：数据读取方法、数据更新方法、电子设备和程序产品
+    3. 中国专利 `202211215669.3`：数据读取方法、数据更新方法、电子设备和程序产品
+    4. 中国专利 `202211217524.7`：数据处理方法、电子设备和计算机程序产品
 - 证书
     1. `RPO-6903098`: [Registered Product Owner™](https://s3.amazonaws.com/scruminc-certs/RPO-6903098)
     2. `RSM-2901977`: [Registered Scrum Master™](https://s3.amazonaws.com/scruminc-certs/RSM-2901977)
