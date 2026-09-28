@@ -2,14 +2,15 @@
 
 > 中国上海 | 男 | 1997 年 9 月 17 日 | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | [GitHub](https://github.com/realJustinLee)
 
-**高级工程师，拥有 6 年以上分布式系统、云平台、数据保护管控面与 AI 时代架构治理经验。擅长子系统架构设计、人类 + AI 混合决策治理、大规模性能重构，以及跨团队技术领导。**
+**系统架构师，拥有 7 年以上软件工程经验，职业经历涵盖 GPU 虚拟化、分布式存储、云平台、数据保护及法律垂类 AI。擅长系统架构设计、大规模性能优化、AI 辅助架构治理与 LLM 应用，兼具底层系统开发、企业级产品交付和跨团队技术领导经验。**
 
 # 核心能力
 
 - 英语流利，雅思 **7.5** 分
 - **AI 增强的架构决策治理**：设计并主持人类 + AI 混合的高风险架构评审机制，在明确人类决策归属的前提下，引入 `GPT`、`Gemini`、`Qwen`、`DeepSeek` 作为结构化质询者。
+- **法律垂类 AI**：具备法律知识检索、问答与起草的 `RAG` 方案设计及交付经验，探索 `LLM Wiki` 法律知识组织方式，并结合引用验证与领域专家评估提升输出质量。
 - AI 时代基础设施、管控面架构、分布式系统、云存储、数据保护、性能与可靠性工程
-- 技术领导力：子系统 owner、跨团队设计评审、质量治理与 Tech Lead 培养
+- 技术领导力：系统架构 owner、跨团队设计评审、质量治理与 Tech Lead 培养
 - 专利：**2 项美国专利**、**2 项中国专利**
     1. 美国专利 `US 2024/0111810 A1`：[Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. 美国专利 `US 2024/0111836 A1`：[Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
@@ -27,6 +28,26 @@
 - 平台与技术：`Kubernetes`、`Docker`、`Linux`、`KVM`、`SR-IOV`、`Spring`、`Flask`、`React.js`、`Three.js`、`WebGL`
 
 # 工作经历
+
+## LexisNexis - LexisNexis Legal & Professional
+
+**Machine Learning Engineering Lead** | **2026 年 6 月 - 现在**
+
+### 香港 BU | Lead Data Scientist (Acting)
+
+- 作为香港数据科学交付的第一负责人，主导需求梳理、路线图规划、技术决策与质量管理，协调内容、工程及领域专家（SME）的跨团队依赖；推动团队在 `Cowork`、量刑内容与繁体中文能力上提前完成关键交付目标，获得良好 SME 评价与积极客户反馈。
+- 针对 `Cowork` 文档经 Markdown 往返转换后的格式失真，提出并主导原生 `DOCX` 结构编辑方案：由 LLM 理解内容并定位修改位置，对文档 XML 进行局部插入或更新，尽可能保留原有结构与样式；组织团队完成服务适配、直接 Word 输出与端到端验证，提升模板还原度、格式一致性与文档可用性。
+- 主导繁体中文 `Upload` / `Vault` 本地化，覆盖文档结构解析、条款编号、提示词与检索评估。在 **24 个控制用例、137 个必要事实点**的受控实验中，`RAG` 基线加权事实召回率为 **28.5%**，`MapReduce` 两轮评估分别达到 **99.3%** 和 **100%**；据此制定“优化 `RAG` 主路径 + 受预算约束的 `MapReduce` 补充”方案，并交付语言控制、原文保留与结构化时间线能力。
+- 主导香港最新版量刑内容接入与场景验证，在既有 `RAG` 基础上推动 `LLM Wiki` 法律知识组织方式探索；统筹问答验证、起草影响分析、版本隔离与引用检查，完成香港法律场景的内容与问答能力交付。
+- 运用 AI 辅助编程独立开发并交付香港内部 SME 评分调度平台，将分散于 Excel 的排期整合为共享日程、评分进度跟踪和一站式结果分析，提升评估协同效率，加快数据科学功能交付。
+- 统筹 `ICS UK` 英国法律内容集成、研究链路验证与评估准备，首轮评估即通过，无需调整后重新评分。
+- 组织团队完善引用验证与案例名称过滤，推动 `Vault` 邮件 / 信函起草通过 SME 复核并进入受控上线；统筹完成新模型启用及起草、Web search 的质量与延迟评估，支撑持续产品质量改进。
+
+### 新西兰 BU | Machine Learning Engineering Lead
+
+- 负责新西兰机器学习工程方向的路线图规划、技术决策与工程交付，推动法律研究与起草能力产品化。完成文档子集选择、来源链接及支持文档数量由 **1 份扩至 10 份**的商业发布；完成文档管理系统（`DMS`）全文起草与起草来源链接增强的技术发布。
+- 统筹 `Agentic` 法律工作流交付，覆盖 `Planner`、`Cowork` MVP、多提示词执行及 `LexisNexis` / Web 内容集成，并面向客户开放；协同应用团队完善回答重试与 `Canvas` 修订导出。
+- 组织团队完成 `Vault` 扩容，将字符上限扩至 **400 万**、单文件上限由 **20 MB 提升至 100 MB**；交付 `General AI` 本地托管、轻量 `DMS` 连接及 `Protege 2.0` 起草的 `DMS` 深度集成，并面向客户开放。
 
 ## 华为 - 数据保护架构与设计
 
@@ -113,15 +134,24 @@
 
 # 项目作品集
 
+## `Protégé` 法律 AI Agent 平台
+
+**LexisNexis - LexisNexis Legal & Professional**
+
+- 项目角色：Machine Learning Engineering Lead，兼任香港 BU Lead Data Scientist (Acting)，负责香港与新西兰相关能力的技术方案与交付。
+- 主导香港法律知识接入与繁体中文能力建设，推进 `RAG` 优化、`LLM Wiki` 探索、引用验证及质量评估。
+- 提出并主导 `Cowork` 原生 `DOCX` 编辑方案，提升文档格式保真与输出可用性。
+- 统筹新西兰 `Planner`、多提示词执行、`DMS` 集成与 `Vault` 扩容，推动法律 AI Agent 工作流面向客户交付。
+
 ## `OceanProtect` 保护引擎、系统管理与基础平台
 
 **华为 - 数据保护架构与设计**
 
 - 项目角色：保护引擎、系统管理和基础平台的子系统架构师、跨团队技术负责人、AI 增强 `DEG` 联合主持人。
 - `OceanProtect` 是华为面向下一代数据中心与多云的统一数据保护平台，覆盖备份、恢复、副本管理、网络韧性，以及一体机形态下的 `WORM`、防删除、`Air Gap` 等安全能力。
-- 我负责保护引擎、系统管理和基础平台等团队间的技术路线、接口边界与方案决策。
-- 我引入 AI 增强 `DEG` 治理，在明确人类决策归属的前提下，让 `GPT`、`Gemini`、`Qwen`、`DeepSeek` 参与结构化质询。
-- 我还主导了调度器重构、副本归档队列 `Redis` 内存优化、告警 / 事件链路重构，以及 `MPA` 合规能力和 `Nutanix` 备份插件交付。
+- 负责保护引擎、系统管理和基础平台等团队间的技术路线、接口边界与方案决策。
+- 引入 AI 增强 `DEG` 治理，在明确人类决策归属的前提下，让 `GPT`、`Gemini`、`Qwen`、`DeepSeek` 参与结构化质询。
+- 主导调度器重构、副本归档队列 `Redis` 内存优化、告警 / 事件链路重构，以及 `MPA` 合规能力和 `Nutanix` 备份插件交付。
 
 ## `ECS` / `ObjectScale` 分布式对象存储平台
 
@@ -129,7 +159,7 @@
 
 - 项目角色：Scrum Lead、跨地域技术协调者，以及元数据、写入链路与 `DT` 自动化 / 诊断方向负责人。
 - `ECS` 是 Dell 的企业级对象存储平台，提供 S3 接口、全局分布式架构与统一命名空间；`ObjectScale` 在此基础上演进为基于 `Kubernetes` 的 AI-ready 架构，并延续 `ECS` 的核心工作流与 API。
-- 我负责跨地域元数据与写入链路交付、`DT` 写入优化、存储数据结构设计、`DT Automation` / `Fortress-Diag`，以及从 `VMware` 版 `ECS` 到 `Kubernetes` 版 `OBS` / `ObjectScale` 的演进。
+- 负责跨地域元数据与写入链路交付、`DT` 写入优化、存储数据结构设计、`DT Automation` / `Fortress-Diag`，以及从 `VMware` 版 `ECS` 到 `Kubernetes` 版 `OBS` / `ObjectScale` 的演进。
 
 ## 通过混合递归云委托进行分布式对象存储管理
 
@@ -147,7 +177,7 @@
 
 - 项目角色：`amdgpu-pro` / `GIM` 虚拟化交付与验证改进的核心开发者与执行负责人。
 - AMD GPU 虚拟化技术栈基于 `MxGPU` / `SR-IOV`，支持 `QEMU` / `KVM` 虚拟机共享加速资源，`amdgpu-pro` 与 `GIM` 贴近内核驱动、分区、调度和验证链路。
-- 我负责 Linux 驱动与虚拟化特性开发、高数量问题单闭环、VM 渲染请求状态机，以及自动化验证覆盖和通过率改进。
+- 负责 Linux 驱动与虚拟化特性开发、高数量问题单闭环、VM 渲染请求状态机，以及自动化验证覆盖和通过率改进。
 
 ## 自动化验证平台与 `OneRT` Feed 工程
 
@@ -155,7 +185,7 @@
 
 - 项目角色：后端设计者、主要开发者。
 - 项目思路与 NI 以 `TestStand`、`SystemLink`、看板、可追溯性、API 和分布式测试系统部署为核心的自动化测试体系一致。
-- 我搭建了包含自动执行、数据采集、看板、内部 `RESTful API` 与 `OneRT` feed / package 管理的轻量验证平台，降低人工回归与运维成本。
+- 搭建包含自动执行、数据采集、看板、内部 `RESTful API` 与 `OneRT` feed / package 管理的轻量验证平台，降低人工回归与运维成本。
 
 ## NI Shanghai 资产管理系统
 

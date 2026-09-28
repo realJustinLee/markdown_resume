@@ -2,14 +2,15 @@
 
 > Shanghai, China | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | [GitHub](https://github.com/realJustinLee)
 
-**Senior engineer with 6+ years of experience in distributed systems, cloud platforms, data-protection control planes, and AI-era architecture governance. Strong track record in subsystem architecture, human-plus-AI decision governance, large-scale performance refactoring, and cross-team technical leadership.**
+**Systems Architect with 7+ years of software engineering experience spanning GPU virtualization, distributed storage, cloud platforms, data protection, and legal AI. Strengths in system architecture, large-scale performance optimization, AI-assisted architecture governance, and LLM applications, backed by experience in low-level systems development, enterprise product delivery, and cross-team technical leadership.**
 
 # Core Expertise
 
 - Fluent English, IELTS **7.5**
 - **AI-augmented architecture decision governance**: designed and chaired a human-plus-AI review mechanism for high-risk architecture decisions, with clear human decision ownership and `GPT`, `Gemini`, `Qwen`, and `DeepSeek` acting as structured challengers.
+- **Legal AI**: experience designing and delivering `RAG` solutions for legal knowledge retrieval, question answering, and drafting; exploring `LLM Wiki` for legal knowledge organization, with citation verification and domain expert evaluation to improve output quality.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
-- Technical leadership: subsystem ownership, cross-team design reviews, quality governance, and Tech Lead development
+- Technical leadership: system architecture ownership, cross-team design reviews, quality governance, and Tech Lead development
 - Patents: **2 US patents** and **2 Chinese patents**
     1. US Patent `US 2024/0111810 A1`: [Data Read Method, Data Update Method, Electronic Device, and Program Product](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111810)
     2. US Patent `US 2024/0111836 A1`: [Method, Electronic Device, and Computer Program for Data Processing](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240111836)
@@ -28,6 +29,26 @@
 
 # Work Experience
 
+## LexisNexis - LexisNexis Legal & Professional
+
+**Machine Learning Engineering Lead** | **June 2026 - Present**
+
+### Hong Kong BU | Lead Data Scientist (Acting)
+
+- Owned Hong Kong data science requirements, roadmap planning, technical decisions, and delivery quality, coordinating priorities and dependencies across teams. Led the team to meet key delivery targets for `Cowork`, sentencing content, and Traditional Chinese capabilities ahead of schedule, with positive subject-matter expert (SME) evaluations and customer feedback.
+- Proposed and led native `DOCX` editing for `Cowork` to address formatting loss from Markdown round trips. Used LLM-guided content understanding and edit localization to modify document XML selectively, preserving existing structure and styles wherever possible. Oversaw service integration, direct Word output, and end-to-end validation, improving template fidelity and document usability.
+- Led Traditional Chinese `Upload` / `Vault` localization, covering Chinese character counting, clause and heading parsing, and prompts. In a controlled experiment with **24 test cases** and **137 required facts**, weighted fact recall was **28.5%** for the `RAG` baseline and **99.3%** and **100%** across two `MapReduce` evaluation rounds. Used the findings to define an optimized `RAG` primary path with budget-constrained `MapReduce` supplementation; led delivery of language controls, original-text preservation, and structured timelines.
+- Led integration of updated Hong Kong sentencing content and exploration of `LLM Wiki` alongside existing `RAG`, coordinating content, engineering, and SMEs. Oversaw question-answering validation, drafting impact analysis, version isolation, and citation checks to deliver sentencing content and question-answering capabilities for Hong Kong legal use cases.
+- Independently built and delivered an internal Hong Kong SME scoring and scheduling platform using AI-assisted development. Unified fragmented spreadsheet schedules, shared evaluation progress, and consolidated scoring analysis, improving evaluation coordination and accelerating data science feature delivery.
+- Led the team's UK legal content integration and research workflow validation for `ICS UK`, passing the first assessment without adjustments or rescoring.
+- Oversaw citation verification and case-name filtering, and guided `Vault` email and letter drafting through SME review into a controlled rollout. Coordinated new-model enablement and quality and latency evaluations for drafting and Web search.
+
+### New Zealand BU | Machine Learning Engineering Lead
+
+- Owned New Zealand roadmap planning, technical decisions, and engineering delivery for legal research and drafting. Led commercial release of document subset selection and source links, expanding supported document count from **1 to 10**; oversaw the technical release of full-text drafting from document management systems (`DMS`) and enhanced drafting source links.
+- Led customer-facing delivery of agentic legal workflows spanning `Planner`, `Cowork` MVP, multi-prompt execution, and `LexisNexis` / Web content integration. Partnered with the application team on answer retries and `Canvas` revision export, supporting task execution, answer refinement, and document output.
+- Led `Vault` infrastructure expansion, increasing the character limit to **4 million** and the per-file limit from **20 MB to 100 MB**. Oversaw customer-accessible delivery of `General AI` local hosting, lightweight `DMS` connectivity, and deeper `DMS` integration for `Protege 2.0` drafting.
+
 ## Huawei - Data Protection Architecture & Design
 
 **Senior Engineer A (17B) / Committer** | **Oct 2024 - Mar 2026**
@@ -41,7 +62,7 @@
 - Designed and delivered the `OceanProtect` `Four-Eyes Authentication` / `MPA` module, helping the product meet Chinese and EU regulatory requirements including `GB/T 35273-2020`, `DORA`, and `EBA` ICT security guidance.
 - Designed and implemented a `Nutanix` backup plugin for `ProtectManager` in **3 days** with **3.3K+ LOC**, and handed it off with **zero defects** in testing.
 - Led diagnosis and resolution of **75+** critical production issues across global enterprise customers including Petrobras, WeBank, China Mobile, and Emaar.
-- As a department-level `Java` / `Python` committer, I contributed **54.5K+ LOC** merged into `master` and drove code review and defect prevention across the three teams: produced **621+** review findings, identified **15** security issues and **5** database performance issues, and developed **5** Tech Leads.
+- Contributed **54.5K+ LOC** merged into `master` as a department-level `Java` / `Python` committer and drove code review and defect prevention across the three teams: produced **621+** review findings, identified **15** security issues and **5** database performance issues, and developed **5** Tech Leads.
 - Certifications
     1. HSDC Professional, Java
     2. HSDC Professional, Python
@@ -113,15 +134,24 @@
 
 # Portfolio
 
+## `Protégé` Legal AI Agent Platform
+
+**LexisNexis - LexisNexis Legal & Professional**
+
+- Role: Machine Learning Engineering Lead, also serving as Lead Data Scientist (Acting) for the Hong Kong BU, with responsibility for technical solutions and delivery across Hong Kong and New Zealand.
+- Led Hong Kong legal content integration and Traditional Chinese capabilities, advancing `RAG` optimization, `LLM Wiki` exploration, citation verification, and quality evaluation.
+- Proposed and led native `DOCX` editing for `Cowork`, improving document formatting fidelity and output usability.
+- Coordinated New Zealand delivery of `Planner`, multi-prompt execution, `DMS` integration, and `Vault` expansion, bringing legal AI agent workflows to customers.
+
 ## `OceanProtect` Protection Engine, System Management, and Infrastructure Platform
 
 **Huawei - Data Protection Architecture & Design**
 
 - Role: subsystem architect, cross-team technical lead, and AI-augmented `DEG` co-chair across the Protection Engine, System Management, and Infrastructure Platform teams.
 - `OceanProtect` is Huawei's unified data-protection platform for next-generation data centers and multicloud, covering backup, recovery, copy management, cyber resilience, and appliance-grade security capabilities such as `WORM`, anti-deletion, and `Air Gap`.
-- I drove roadmap planning, interface-boundary governance, and solution decisions across the Protection Engine, System Management, and Infrastructure Platform teams.
-- I introduced AI-augmented `DEG` governance with clear human decision ownership, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers before implementation.
-- I also led scheduler redesign, `Redis` archival-queue memory optimization, alarm / event path refactoring, `MPA` compliance delivery, and the `Nutanix` backup plugin.
+- Drove roadmap planning, interface-boundary governance, and solution decisions across the Protection Engine, System Management, and Infrastructure Platform teams.
+- Introduced AI-augmented `DEG` governance with clear human decision ownership, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` as structured challengers before implementation.
+- Led scheduler redesign, `Redis` archival-queue memory optimization, alarm / event path refactoring, `MPA` compliance delivery, and the `Nutanix` backup plugin.
 
 ## `ECS` / `ObjectScale` Distributed Object Storage Platform
 
@@ -129,7 +159,7 @@
 
 - Role: Scrum Lead, cross-site coordinator, and engineering owner for metadata, write path, and `DT` automation / diagnostics.
 - `ECS` is Dell's enterprise object-storage platform with S3-compatible access, global distribution, and a single namespace for large-scale unstructured data; `ObjectScale` extends it with a `Kubernetes`-based, AI-ready architecture while retaining `ECS` workflows and APIs.
-- I drove cross-site metadata and write-path delivery, `DT` write optimization, storage data-structure design, `DT Automation` / `Fortress-Diag`, and the `VMware` `ECS` to `Kubernetes` `OBS` / `ObjectScale` transition.
+- Drove cross-site metadata and write-path delivery, `DT` write optimization, storage data-structure design, `DT Automation` / `Fortress-Diag`, and the `VMware` `ECS` to `Kubernetes` `OBS` / `ObjectScale` transition.
 
 ## Distributed Object Store Management by Mixed Recursive Cloud Delegation
 
@@ -147,7 +177,7 @@
 
 - Role: primary developer and execution owner for `amdgpu-pro` / `GIM` virtualization delivery and validation.
 - AMD's GPU virtualization stack uses `MxGPU` / `SR-IOV` to share accelerators across `QEMU` / `KVM` VMs, with `amdgpu-pro` and `GIM` close to kernel-mode driver, partitioning, scheduling, and validation paths.
-- I built Linux driver and virtualization features, closed high-volume issues end to end, coordinated VM render requests with a state machine, and improved automated validation coverage and pass rates.
+- Built Linux driver and virtualization features, closed high-volume issues end to end, coordinated VM render requests with a state machine, and improved automated validation coverage and pass rates.
 
 ## Automated Validation Platform and `OneRT` Feed Engineering
 
@@ -155,7 +185,7 @@
 
 - Role: backend designer and primary developer.
 - The project aligned with NI's automated test software model, centered on `TestStand`, `SystemLink`, dashboards, traceability, APIs, and software deployment for distributed test systems.
-- I built a lightweight validation platform around automated execution, data collection, dashboards, internal `RESTful APIs`, and `OneRT` feed / package management, reducing manual regression and operational overhead.
+- Built a lightweight validation platform around automated execution, data collection, dashboards, internal `RESTful APIs`, and `OneRT` feed / package management, reducing manual regression and operational overhead.
 
 ## NI Shanghai Asset Management System
 
