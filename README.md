@@ -31,7 +31,7 @@
 
 ## LexisNexis - LexisNexis Legal & Professional
 
-**Machine Learning Engineering Lead** | **June 2026 - Present**
+**Machine Learning Engineer Lead** | **June 2026 - Present**
 
 ### Hong Kong BU | Lead Data Scientist (Acting)
 
@@ -43,7 +43,7 @@
 - Led the team's UK legal content integration, research workflow validation, and assessment preparation for `ICS UK`; the team passed the first assessment without adjustments or rescoring.
 - Oversaw citation verification and case-name filtering, and guided `Vault` email and letter drafting through SME review into a controlled rollout. Coordinated new model activation and evaluations of quality and latency for drafting and web search.
 
-### New Zealand BU | Machine Learning Engineering Lead
+### New Zealand BU | Machine Learning Engineer Lead
 
 - Owned New Zealand roadmap planning, technical decisions, and engineering delivery for legal research and drafting. Led the commercial release of document subset selection and source links, increasing the number of supported documents from **1 to 10**; oversaw the technical release of full-text drafting from document management systems (`DMS`) and enhanced drafting source links.
 - Led delivery of agentic legal workflows to customers, covering `Planner`, `Cowork` MVP, multi-prompt execution, and `LexisNexis` / web content integration. Partnered with the application team on answer retries and `Canvas` revision export, supporting task execution, answer refinement, and document output.
@@ -138,7 +138,7 @@
 
 **LexisNexis - LexisNexis Legal & Professional**
 
-- Role: Machine Learning Engineering Lead, also serving as Lead Data Scientist (Acting) for the Hong Kong BU, with responsibility for technical solutions and delivery across Hong Kong and New Zealand.
+- Role: Machine Learning Engineer Lead, also serving as Lead Data Scientist (Acting) for the Hong Kong BU, with responsibility for technical solutions and delivery across Hong Kong and New Zealand.
 - Led Hong Kong legal content integration and delivery of Traditional Chinese capabilities, including `RAG` optimization, `LLM Wiki` exploration, citation verification, and quality evaluation.
 - Proposed and led a native `DOCX` editing approach for `Cowork`, improving document formatting fidelity and output usability.
 - Coordinated New Zealand delivery of `Planner`, multi-prompt execution, `DMS` integration, and `Vault` expansion, bringing legal AI agent workflows to customers.

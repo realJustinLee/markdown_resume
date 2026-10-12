@@ -31,7 +31,7 @@
 
 ## LexisNexis - LexisNexis Legal & Professional
 
-**Machine Learning Engineering Lead** | **2026 年 6 月 - 至今**
+**Machine Learning Engineer Lead** | **2026 年 6 月 - 至今**
 
 ### 香港 BU | Lead Data Scientist (Acting)
 
@@ -43,7 +43,7 @@
 - 统筹 `ICS UK` 英国法律内容集成、研究链路验证与评估准备，首轮评估即通过，无需调整或重新评分。
 - 组织团队完善引用验证与案例名称过滤，推动 `Vault` 邮件 / 信函起草通过 SME 复核并进入受控上线；统筹新模型启用，并完成起草与 Web 搜索的质量和延迟评估。
 
-### 新西兰 BU | Machine Learning Engineering Lead
+### 新西兰 BU | Machine Learning Engineer Lead
 
 - 负责新西兰机器学习工程方向的路线图规划、技术决策与工程交付，推动法律研究与起草能力产品化。推动文档子集选择、来源链接及多文档支持能力完成商业发布，支持文档数量由 **1 份扩至 10 份**；完成文档管理系统（`DMS`）全文起草与起草来源链接增强的技术发布。
 - 统筹 `Agentic` 法律工作流交付，覆盖 `Planner`、`Cowork` MVP、多提示词执行及 `LexisNexis` / Web 内容集成，并面向客户开放；协同应用团队完善回答重试与 `Canvas` 修订导出。
@@ -138,7 +138,7 @@
 
 **LexisNexis - LexisNexis Legal & Professional**
 
-- 项目角色：Machine Learning Engineering Lead，兼任香港 BU Lead Data Scientist (Acting)，负责香港与新西兰相关能力的技术方案与交付。
+- 项目角色：Machine Learning Engineer Lead，兼任香港 BU Lead Data Scientist (Acting)，负责香港与新西兰相关能力的技术方案与交付。
 - 主导香港法律知识接入与繁体中文能力建设，推进 `RAG` 优化、`LLM Wiki` 探索、引用验证及质量评估。
 - 提出并主导 `Cowork` 原生 `DOCX` 编辑方案，提升文档格式保真度与输出可用性。
 - 统筹新西兰 `Planner`、多提示词执行、`DMS` 集成与 `Vault` 扩容，推动法律 AI Agent 工作流面向客户交付。
