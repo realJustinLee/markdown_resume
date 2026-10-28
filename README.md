@@ -2,12 +2,13 @@
 
 > Shanghai, China | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | [GitHub](https://github.com/realJustinLee)
 
-**Systems Architect with 7+ years of software engineering experience spanning GPU virtualization, distributed storage, cloud platforms, data protection, and legal AI. Skilled in system architecture, large-scale performance optimization, AI-assisted architecture governance, and LLM applications, with experience in low-level systems development, enterprise product delivery, and cross-team technical leadership.**
+**Systems Architect with 7+ years of software engineering experience spanning GPU virtualization, distributed storage, cloud platforms, data protection, and legal AI. Skilled in system architecture, large-scale performance optimization, AI-assisted engineering decisions, and LLM applications, with experience in low-level systems development, enterprise product delivery, and cross-team technical leadership.**
 
 # Core Expertise
 
 - Fluent English, IELTS **7.5**
-- **AI-assisted architecture decision governance**: designed and chaired a human-led review process for high-risk architecture decisions, with clear human accountability and `GPT`, `Gemini`, `Qwen`, and `DeepSeek` systematically challenging proposals.
+- **Multi-agent orchestration and human–AI decisions**: conceived, designed, and implemented `SE` agents and module-level `DE` agents, combining role-based `Multi-Agent Orchestration` with collaborative deliberation in a two-round `Human-in-the-loop` process: AI discussion → reference report → joint human–AI review. Supports requirements analysis and selection, architecture trade-offs, and development effort estimation, with final decisions made by humans.
+- **Semantic knowledge engineering and decision governance**: built a unified semantic knowledge layer across code, design, and requirements using `RAG`, ontology modeling (`Ontology`), and `LLM Wiki`, enabling cross-source knowledge integration and continuous context updates. Established a governance loop linking scrutiny from multiple roles, decision records, and follow-up validation.
 - **Legal AI**: design and delivery of `RAG` solutions for legal knowledge retrieval, question answering, and drafting; exploration of `LLM Wiki` for legal knowledge organization, with citation verification and domain expert evaluation to improve output quality.
 - AI-era infrastructure, control-plane architecture, distributed systems, cloud storage, data protection, performance, and reliability engineering
 - Technical leadership: system architecture ownership, cross-team design reviews, quality governance, and Tech Lead development
@@ -53,10 +54,9 @@
 
 **Senior Engineer A (17B) / Committer** | **Oct 2024 - Mar 2026**
 
+- Originated `OP Harness`, designed its `SE` / `DE` agents and multi-agent orchestration, and built the MVP from scratch. Every topic follows two rounds of collaborative deliberation: the `SE` agent first leads module-level `DE` agents in discussion and produces a reference report; the second round is a `Human-in-the-loop` joint review by human `SE`s / `DE`s and AI agents. Served as the human `SE`, making final decisions jointly with human `DE`s. The process covers requirements analysis and selection, architecture design, and development effort estimation. Built a `RAG` system over code, design, and requirements documents, using ontology modeling and `LLM Wiki` to update project knowledge. Prevented high-risk design defects before implementation; the project gained broad internal recognition and formal approval as an internal tool.
 - Served as a subsystem architect across the Protection Engine, System Management, and Infrastructure Platform teams within the `OceanProtect` Control Business Team, leading architecture design and technical roadmap planning.
 - Coordinated cross-module architecture decisions, interface boundaries, quality gates, and complex troubleshooting across the three teams, serving as the technical lead on high-risk requirements and production issues.
-- Designed and introduced a human-led architecture decision process supported by AI agents for `DEG` reviews across the Protection Engine, System Management, and Infrastructure Platform teams.
-- Served as decision owner and co-chair, using AI agents such as `GPT`, `Gemini`, `Qwen`, and `DeepSeek` to challenge proposals and identify scalability, security, and long-term maintainability risks. Documented decisions and validated them after review to identify and address multiple high-risk design defects before implementation, avoiding potential architectural rollbacks.
 - Re-architected the job scheduler under peak concurrency, reducing initiation-to-execution latency from **35+ minutes** to **under 20 seconds** and reducing time complexity from `O(n^2 * m)` to `O(n * m)`.
 - Led **22+** performance optimization and refactoring efforts across backup, query, export, and event-processing paths. Results included reducing a **10,000-VM** scan from **2 hours** to **10 minutes**, cutting `Redis` memory usage for a **10,000-copy** archival queue from **2 GB** to **56 MB**, accelerating batch cancellation from **1 minute per job** to **0.5 seconds per job**, and reducing the time to export **4 million** alarm/event records from **24 hours** to **35 seconds**.
 - Designed and delivered the `OceanProtect` `Four-Eyes Authentication` / `MPA` module to support compliance with relevant requirements in `GB/T 35273-2020`, `DORA`, and `EBA` ICT security guidance.
@@ -68,7 +68,7 @@
     2. HSDC Professional, Python
 - Awards
     1. _2025 Data Management PDU Quality Excellence Award_
-    2. _2025 Data Protection Development Department Best Committer of June_
+    2. _2025 Data Protection Development Department Best Committer_
     3. _2025 Architect DP Excellent Trainee/Winning Team_
     4. _2025 DEDP Excellent Trainee/Winning Team_
     5. _2024 NEO Excellent Trainee/Winning Team/Top Class Committee Member_
@@ -147,11 +147,21 @@
 
 **Huawei - Data Protection Architecture & Design**
 
-- Role: subsystem architect, cross-team technical lead, and AI-augmented `DEG` co-chair across the Protection Engine, System Management, and Infrastructure Platform teams.
+- Role: subsystem architect and cross-team technical lead across the Protection Engine, System Management, and Infrastructure Platform teams.
 - `OceanProtect` is Huawei's unified data-protection platform for next-generation data centers and multicloud environments, covering backup, recovery, copy management, cyber resilience, and appliance security features such as `WORM`, deletion protection, and `Air Gap`.
 - Led roadmap planning, interface-boundary coordination, and technical decisions across the Protection Engine, System Management, and Infrastructure Platform teams.
-- Introduced AI-assisted `DEG` reviews with clear human accountability, using `GPT`, `Gemini`, `Qwen`, and `DeepSeek` to systematically challenge proposals before implementation.
+- Designed and implemented the `OP Harness` multi-agent collaborative decision process: the `SE` agent leads `DE` agents in a first-round discussion and produces a reference report, followed by a second-round review with human experts and AI agents; human `SE`s / `DE`s then make final decisions on requirements selection, architecture design, and development effort estimation.
 - Led scheduler redesign, `Redis` archival-queue memory optimization, alarm / event path refactoring, `MPA` compliance delivery, and the `Nutanix` backup plugin.
+
+## `OP Harness`: AI-Assisted Engineering Decision System
+
+**Huawei - Data Protection Architecture & Design**
+
+- Role: project originator, systems architect, core MVP developer, and `DEG` co-chair.
+- Conceived and built `OP Harness`, redesigning how `OceanProtect` engineering topics are analyzed, challenged, and jointly reviewed through multi-agent collaboration. Covered requirements analysis and selection, architecture trade-offs, and development effort estimation; delivered the MVP from scratch and secured formal approval as an internal tool following internal use and broad recognition.
+- Led role-based `Multi-Agent Orchestration`, personally designing and implementing architecture-level `SE` agents (architects) and module-level `DE` agents (Tech Leads). All topics follow two rounds: the `SE` agent first leads `DE` agents in an AI discussion and produces a reference report; a `Human-in-the-loop` session then brings human experts and AI agents together for joint review. Served as the human `SE`, making final decisions jointly with human `DE`s.
+- Built a unified semantic knowledge layer spanning code, design, and requirements. Used ontology modeling (`Ontology`) to connect knowledge across sources, `RAG` to provide each agent role with project context, and `LLM Wiki` to track project evolution and keep decision inputs current.
+- Established a governance loop linking scrutiny from multiple roles, recorded decisions, and follow-up validation. Assessed scalability, security, and long-term maintainability risks before implementation and prevented multiple high-risk design defects that could have forced architectural rollbacks.
 
 ## `ECS` / `ObjectScale` Distributed Object Storage Platform
 
