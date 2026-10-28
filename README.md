@@ -27,11 +27,9 @@
 - GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
 - Languages: `Java`, `Python`, `C/C++`, `JavaScript`, `SQL`
 - **Platforms & tools**:
-    - **AI applications and knowledge engineering**: multi-agent orchestration, agentic workflows, context engineering, `RAG`, `MapReduce`, ontology modeling, `LLM Wiki`
-    - **Retrieval, evaluation, and document engineering**: Chinese tokenizer and text encoder selection, semantic retrieval, fact recall evaluation, SME-in-the-loop validation, generation quality guardrails, citation verification, native `DOCX` XML editing
-    - **Cloud-native platforms and virtualization**: `Kubernetes`, `Docker`, `Linux`, `KVM`, `SR-IOV`
-    - **Backend, data, and software delivery**: `Spring`, `Flask`, `Redis`, `SQLAlchemy`, `MariaDB`, `Nginx`, `Jenkins`
-    - **GPU drivers, graphics, and frontend**: Linux GPU kernel-mode driver, `amdgpu-pro` / `GIM`, GPU virtualization, `React.js`, `Three.js`, `WebGL`
+    - **AI**: `RAG`, `MapReduce`, `Multi-Agent`, `Agentic Workflow`, `Context Engineering`, `LLM Evals`, `Guardrails`, `Ontology`, `LLM Wiki`
+    - **Cloud-native & systems**: `Kubernetes`, `Docker`, `Linux Kernel`, `GPU Virtualization`, `KVM`, `QEMU`, `SR-IOV`
+    - **Applications & engineering**: `Spring`, `Flask`, `Redis`, `React.js`, `Three.js`, `WebGL`, `Jenkins`
 
 # Work Experience
 
