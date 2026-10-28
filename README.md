@@ -31,7 +31,7 @@
     - **Retrieval, evaluation, and document engineering**: Chinese tokenizer and text encoder selection, semantic retrieval, fact recall evaluation, SME-in-the-loop validation, generation quality guardrails, citation verification, native `DOCX` XML editing
     - **Cloud-native platforms and virtualization**: `Kubernetes`, `Docker`, `Linux`, `KVM`, `SR-IOV`
     - **Backend, data, and software delivery**: `Spring`, `Flask`, `Redis`, `SQLAlchemy`, `MariaDB`, `Nginx`, `Jenkins`
-    - **GPU drivers, graphics, and frontend**: Linux GPU kernel-mode driver development and debugging, `amdgpu-pro` / `GIM`, GPU virtualization and VM rendering request coordination, `React.js`, `Three.js`, `WebGL`
+    - **GPU drivers, graphics, and frontend**: Linux GPU kernel-mode driver, `amdgpu-pro` / `GIM`, GPU virtualization, `React.js`, `Three.js`, `WebGL`
 
 # Work Experience
 

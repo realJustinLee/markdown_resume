@@ -31,7 +31,7 @@
     - **检索、评估与文档工程**：中文分词与文本编码器选型、语义检索、事实召回评估、SME 在环验证、生成质量护栏、引用校验、原生 `DOCX` XML 编辑
     - **云原生与虚拟化**：`Kubernetes`、`Docker`、`Linux`、`KVM`、`SR-IOV`
     - **后端、数据与工程交付**：`Spring`、`Flask`、`Redis`、`SQLAlchemy`、`MariaDB`、`Nginx`、`Jenkins`
-    - **GPU 驱动、图形与前端**：Linux GPU 内核驱动开发与调试、`amdgpu-pro` / `GIM`、GPU 虚拟化与 VM 渲染请求协调、`React.js`、`Three.js`、`WebGL`
+    - **GPU 驱动、图形与前端**：Linux GPU 内核驱动、`amdgpu-pro` / `GIM`、GPU 虚拟化、`React.js`、`Three.js`、`WebGL`
 
 # 工作经历
 
