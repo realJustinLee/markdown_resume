@@ -26,7 +26,12 @@
 - Stack Overflow 声望值：890
 - GitHub Arctic Code Vault Contributor、GitHub Sponsor、GitHub Developer Program Member
 - 编程语言：`Java`、`Python`、`C/C++`、`JavaScript`、`SQL`
-- 平台与技术：`Kubernetes`、`Docker`、`Linux`、`KVM`、`SR-IOV`、`Spring`、`Flask`、`React.js`、`Three.js`、`WebGL`
+- **平台与技术**：
+    - **AI 应用与知识工程**：多 Agent 编排、智能体工作流、上下文工程、`RAG`、`MapReduce`、本体建模、`LLM Wiki`
+    - **检索、评估与文档工程**：中文分词与文本编码器选型、语义检索、事实召回评估、SME 在环验证、生成质量护栏、引用校验、原生 `DOCX` XML 编辑
+    - **云原生与虚拟化**：`Kubernetes`、`Docker`、`Linux`、`KVM`、`SR-IOV`
+    - **后端、数据与工程交付**：`Spring`、`Flask`、`Redis`、`SQLAlchemy`、`MariaDB`、`Nginx`、`Jenkins`
+    - **GPU 驱动、图形与前端**：Linux GPU 内核驱动开发与调试、`amdgpu-pro` / `GIM`、GPU 虚拟化与 VM 渲染请求协调、`React.js`、`Three.js`、`WebGL`
 
 # 工作经历
 

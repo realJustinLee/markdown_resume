@@ -26,7 +26,12 @@
 - Stack Overflow reputation: 890
 - GitHub Arctic Code Vault Contributor, GitHub Sponsor, and GitHub Developer Program Member
 - Languages: `Java`, `Python`, `C/C++`, `JavaScript`, `SQL`
-- Platforms & tools: `Kubernetes`, `Docker`, `Linux`, `KVM`, `SR-IOV`, `Spring`, `Flask`, `React.js`, `Three.js`, `WebGL`
+- **Platforms & tools**:
+    - **AI applications and knowledge engineering**: multi-agent orchestration, agentic workflows, context engineering, `RAG`, `MapReduce`, ontology modeling, `LLM Wiki`
+    - **Retrieval, evaluation, and document engineering**: Chinese tokenizer and text encoder selection, semantic retrieval, fact recall evaluation, SME-in-the-loop validation, generation quality guardrails, citation verification, native `DOCX` XML editing
+    - **Cloud-native platforms and virtualization**: `Kubernetes`, `Docker`, `Linux`, `KVM`, `SR-IOV`
+    - **Backend, data, and software delivery**: `Spring`, `Flask`, `Redis`, `SQLAlchemy`, `MariaDB`, `Nginx`, `Jenkins`
+    - **GPU drivers, graphics, and frontend**: Linux GPU kernel-mode driver development and debugging, `amdgpu-pro` / `GIM`, GPU virtualization and VM rendering request coordination, `React.js`, `Three.js`, `WebGL`
 
 # Work Experience
 
