@@ -1,6 +1,6 @@
 # Justin Xin Li
 
-> Shanghai, China | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | [GitHub](https://github.com/realJustinLee)
+> Shanghai, China | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | GitHub: [https://github.com/realJustinLee](https://github.com/realJustinLee)
 
 **Systems Architect with 7+ years of software engineering experience spanning GPU virtualization, distributed storage, cloud platforms, data protection, and legal AI. Skilled in system architecture, large-scale performance optimization, AI-assisted engineering decisions, and LLM applications, with experience in low-level systems development, enterprise product delivery, and cross-team technical leadership.**
 

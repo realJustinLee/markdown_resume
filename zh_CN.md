@@ -1,7 +1,6 @@
 # 李欣
 
-> 中国上海 | 男 | 1997 年 9 月 17 日 | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | [GitHub](https://github.com/realJustinLee)
-
+> 中国上海 | 男 | 1997 年 9 月 17 日 | [justindelladam@live.com](mailto:justindelladam@live.com) | +86 180 1601 5760 | GitHub：[https://github.com/realJustinLee](https://github.com/realJustinLee)
 **系统架构师，拥有 7 年以上软件工程经验，职业经历涵盖 GPU 虚拟化、分布式存储、云平台、数据保护及法律垂类 AI。擅长系统架构设计、大规模性能优化、AI 辅助研发决策与 LLM 应用，兼具底层系统开发、企业级产品交付和跨团队技术领导经验。**
 
 # 核心能力
